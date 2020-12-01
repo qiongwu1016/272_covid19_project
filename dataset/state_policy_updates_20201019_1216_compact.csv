@@ -1,0 +1,2675 @@
+﻿state_id,county,fips_code,policy_level,date,policy_type,start_stop
+GA,DeKalb County,13089,county,3/28/20,Shelter in Place,start
+MS,Wayne,28153,county,7/13/20,Houses of Worship,start
+SC,,,state,3/17/20,Stop Initiation Of Evictions Overall Or Due To Covid Related Issues,start
+MO,Pike County,29163,county,4/5/20,Shelter in Place,start
+OH,Trumbull,39155,county,7/8/20,Mask Requirement,start
+PA,Berks,42011,county,6/26/20,Phase 2,start
+OR,Clackamas,41005,county,5/23/20,New Phase,start
+ND,Wells,38103,county,9/3/20,Food and Drink,start
+DE,,,state,3/27/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+GA,Lowndes County,13185,county,3/24/20,Shelter in Place,start
+ME,Cumberland,23005,county,6/1/20,Food and Drink,start
+TX,San Jacinto County,48407,county,3/25/20,Shelter in Place,start
+MI,,,state,3/20/20,Stop Enforcement Of Evictions Overall Or Due To Covid Related Issues,start
+PA,Luzerne County,42079,county,3/27/20,Shelter in Place,start
+CA,Ventura,6111,county,10/6/20,Houses of Worship,start
+ID,Ada,16001,county,6/24/20,Childcare (K-12),start
+NH,Sullivan,33019,county,6/15/20,Food and Drink,start
+ND,McLean,38055,county,9/3/20,Outdoor and Recreation,start
+WA,,,state,3/25/20,Non-Essential Businesses,start
+TX,McLennan County,48309,county,3/23/20,Shelter in Place,start
+ND,Benson,38005,county,9/3/20,Non-Essential Businesses,start
+NY,,,state,3/16/20,Entertainment,start
+MT,,,state,3/20/20,Gyms,start
+ND,Benson,38005,county,9/3/20,Childcare (K-12),start
+TX,Edwards,48137,county,7/3/20,Mask Requirement,start
+ND,Pembina,38067,county,9/3/20,Food and Drink,start
+AK,,,state,3/17/20,Allow Audio Only Telehealth,start
+DE,,,state,3/19/20,Gyms,start
+AL,,,state,4/4/20,Shelter in Place,start
+CA,Ventura County,6111,county,3/17/20,Shelter in Place,start
+ND,Williams,38105,county,9/3/20,Outdoor and Recreation,start
+NE,Gage,31067,county,4/3/20,Shelter in Place,start
+KS,Leavenworth County,20103,county,3/24/20,Shelter in Place,start
+TX,Lipscomb,48295,county,7/3/20,Mask Requirement,start
+KS,,,state,6/22/20,Allow Audio Only Telehealth,start
+MD,,,state,4/18/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+PA,Lancaster,42071,county,6/26/20,Phase 2,start
+MO,Lincoln County,29113,county,3/29/20,Shelter in Place,start
+OH,Athens,39009,county,7/23/20,Public Health Advisory System,start
+DE,,,state,4/28/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+PA,Huntingdon,42061,county,6/19/20,Phase 2,start
+ME,Hancock,23009,county,5/18/20,Food and Drink,start
+MD,,,state,4/18/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+OR,,,state,3/24/20,Entertainment,start
+LA,,,state,3/23/20,Shelter in Place,start
+GA,,,state,4/20/20,Resumed Elective Medical Procedures,start
+LA,,,state,3/11/20,State of Emergency,start
+DC,,,state,3/16/20,Food and Drink,start
+TX,Hidalgo County,48215,county,3/26/20,Shelter in Place,start
+IA,Polk,19153,county,8/27/20,Food and Drink,start
+UT,,,state,3/25/20,Allow Audio Only Telehealth,start
+CT,,,state,4/3/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+HI,,,state,3/17/20,Food and Drink,start
+MI,Luce,26095,county,7/31/20,Entertainment,start
+VT,,,state,3/25/20,Entertainment,start
+TX,Rockwall County,48397,county,3/24/20,Shelter in Place,start
+TX,Caldwell County,48055,county,3/31/20,Shelter in Place,start
+DE,,,state,3/13/20,State of Emergency,start
+TX,,,state,3/31/20,Entertainment,start
+VT,,,state,3/20/20,Reopened ACA Enrollment Using a Special Enrollment Period,start
+AK,Haines Borough,2100,county,3/25/20,Shelter in Place,start
+CA,Los Angeles County,6037,county,3/21/20,Shelter in Place,start
+OH,Montgomery,39113,county,7/23/20,Public Health Advisory System,start
+NE,Clay,31035,county,3/31/20,Shelter in Place,start
+TX,Trinity County,48455,county,3/31/20,Shelter in Place,start
+WI,Dane,55025,county,7/13/20,Mask Requirement,start
+ND,Billings,38007,county,9/3/20,Food and Drink,start
+ME,Somerset,23025,county,5/11/20,Non-Essential Businesses,start
+MS,Lauderdale County,28075,county,3/31/20,Shelter in Place,start
+FL,Miami-Dade,12086,county,7/9/20,Food and Drink,start
+MS,Washington,28151,county,7/13/20,Food and Drink,start
+WA,,,state,3/23/20,Shelter in Place,start
+NE,Jefferson,31095,county,4/3/20,Shelter in Place,start
+TX,San Augustine County,48405,county,3/30/20,Shelter in Place,start
+TX,Irion,48235,county,7/3/20,Mask Requirement,start
+VA,,,state,3/23/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+WA,,,state,3/19/20,Suspended Elective Medical Dental Procedures,start
+MS,Grenada,28043,county,7/13/20,Outdoor and Recreation,start
+ME,,,state,3/25/20,Non-Essential Businesses,start
+TX,,,state,3/26/20,Order Freezing Utility Shut Offs,start
+TX,Harris County,48201,county,3/24/20,Shelter in Place,start
+TX,Runnels,48399,county,7/3/20,Mask Requirement,start
+RI,,,state,3/9/20,State of Emergency,start
+SD,,,state,3/23/20,Allow Expand Medicaid Telehealth Coverage,start
+MS,Washington,28151,county,7/13/20,Outdoor and Recreation,start
+MS,Jackson,28059,county,7/13/20,Childcare (K-12),start
+IL,,,state,5/1/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+PA,Lawrence County,42073,county,3/31/20,Shelter in Place,start
+IN,Cass,18017,county,5/18/20,Phase 2,start
+KY,,,state,3/25/20,Stop Enforcement Of Evictions Overall Or Due To Covid Related Issues,start
+NJ,,,state,3/21/20,Shelter in Place,start
+PA,Mifflin,42087,county,6/12/20,Phase 2,start
+ME,,,state,3/20/20,Allow Expand Medicaid Telehealth Coverage,start
+CA,Yuba County,6115,county,3/18/20,Shelter in Place,start
+CA,Merced County,6047,county,3/20/20,Shelter in Place,start
+IL,,,state,3/23/20,Day Care,start
+WA,,,state,3/16/20,Food and Drink,start
+WY,,,state,3/19/20,Childcare (K-12),start
+MN,,,state,6/1/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+PA,Northampton County,42095,county,3/25/20,Shelter in Place,start
+MD,,,state,3/30/20,Day Care,start
+ME,Oxford,23017,county,5/11/20,Non-Essential Businesses,start
+MS,Wayne,28153,county,7/13/20,Entertainment,start
+PA,Carbon,42025,county,6/12/20,Phase 2,start
+CA,,,state,4/22/20,Resumed Elective Medical Procedures,start
+TX,Hunt County,48231,county,3/24/20,Shelter in Place,start
+MI,Montmorency,26119,county,7/31/20,Outdoor and Recreation,start
+MA,,,state,3/10/20,State of Emergency,start
+NE,Saline,31151,county,4/3/20,Shelter in Place,start
+KS,Riley County,20161,county,3/29/20,Shelter in Place,start
+TX,Fisher,48151,county,7/3/20,Mask Requirement,start
+MN,,,state,3/17/20,Gyms,start
+OR,Baker,41001,county,6/6/20,Food and Drink,start
+IN,,,state,3/25/20,Entertainment,start
+MS,Winston,28159,county,7/25/20,Phase 3,start
+PA,,,state,3/27/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+OH,Lorain,39093,county,7/23/20,Public Health Advisory System,start
+TX,,,state,3/31/20,Shelter in Place,start
+NE,Custer,31041,county,4/3/20,Shelter in Place,start
+FL,Hillsborough County,12057,county,4/30/20,Shelter in Place,stop
+TX,,,state,5/1/20,Food and Drink,stop
+TX,Webb County,48479,county,4/30/20,Shelter in Place,stop
+IN,,,state,6/1/20,Gyms,stop
+MS,Winston,28159,county,8/3/20,Phase 3,stop
+MS,Hinds,28049,county,7/20/20,Non-Essential Businesses,stop
+NH,,,state,6/1/20,Gyms,stop
+HI,,,state,5/7/20,Non-Essential Businesses,stop
+KS,Lyon County,20111,county,4/25/20,Shelter in Place,stop
+IA,Linn,19113,county,9/20/20,Food and Drink,stop
+NE,Franklin,31061,county,5/11/20,Shelter in Place,stop
+NC,Forsyth County,37067,county,4/16/20,Shelter in Place,stop
+IN,,,state,5/18/20,Food and Drink,stop
+NE,Hayes,31085,county,5/11/20,Shelter in Place,stop
+NE,Brown,31017,county,5/11/20,Shelter in Place,stop
+TX,Polk County,48373,county,4/30/20,Shelter in Place,stop
+TX,Denton County,48121,county,4/30/20,Shelter in Place,stop
+PA,Lackawanna County,42069,county,4/30/20,Shelter in Place,stop
+MS,Claiborne,28021,county,7/20/20,Childcare (K-12),stop
+CT,,,state,5/20/20,Shelter in Place,stop
+NE,Frontier,31063,county,5/11/20,Shelter in Place,stop
+NE,,,state,5/18/20,Non-Essential Businesses,stop
+MN,,,state,6/10/20,Gyms,stop
+MD,,,state,6/19/20,Gyms,stop
+MO,McDonald County,29119,county,4/30/20,Shelter in Place,stop
+TX,Collin County,48085,county,3/31/20,Shelter in Place,stop
+TX,Nolan County,48353,county,4/13/20,Shelter in Place,stop
+NE,Lincoln,31111,county,5/11/20,Shelter in Place,stop
+TX,Bexar,48029,county,6/4/20,Personal Care,stop
+GA,Pickens County,13227,county,4/7/20,Shelter in Place,stop
+OH,,,state,5/29/20,Shelter in Place,stop
+MS,DeSoto,28033,county,7/20/20,Entertainment,stop
+CA,Ventura County,6111,county,5/15/20,Shelter in Place,stop
+AR,,,state,5/4/20,Gyms,stop
+TX,Jim Wells County,48249,county,4/27/20,Shelter in Place,stop
+NE,Jefferson,31095,county,5/11/20,Shelter in Place,stop
+MS,DeSoto,28033,county,7/20/20,Non-Essential Businesses,stop
+RI,,,state,5/9/20,Non-Essential Businesses,stop
+TX,Brazos County,48041,county,4/21/20,Shelter in Place,stop
+KS,Morris County,20127,county,4/25/20,Shelter in Place,stop
+NY,Cattaraugus,36009,county,6/30/20,Phase 3,stop
+NJ,,,state,5/18/20,Non-Essential Businesses,stop
+MO,Osage County,29151,county,5/1/20,Shelter in Place,stop
+FL,Palm Beach,12099,county,7/5/20,Food and Drink,stop
+CO,Jefferson County,8059,county,3/26/20,Shelter in Place,stop
+MO,St. Louis County,29189,county,4/22/20,Shelter in Place,stop
+MS,Madison,28089,county,7/20/20,Outdoor and Recreation,stop
+MO,Lafayette County,29107,county,4/30/20,Shelter in Place,stop
+ID,,,state,5/16/20,Gyms,stop
+KS,Wyandotte County,20209,county,4/23/20,Shelter in Place,stop
+TX,Rockwall County,48397,county,4/30/20,Shelter in Place,stop
+MO,Chariton County,29041,county,4/24/20,Shelter in Place,stop
+MS,Jefferson,28063,county,7/20/20,Outdoor and Recreation,stop
+MO,Pike County,29163,county,4/30/20,Shelter in Place,stop
+NE,Chase,31029,county,5/11/20,Shelter in Place,stop
+WV,,,state,5/18/20,Gyms,stop
+TX,Newton County,48351,county,4/30/20,Shelter in Place,stop
+WI,,,state,5/13/20,Shelter in Place,stop
+MS,Grenada,28043,county,7/20/20,Entertainment,stop
+NE,Lancaster,31109,county,5/6/20,Shelter in Place,stop
+MD,,,state,5/15/20,Non-Essential Businesses,stop
+MO,Iron County,29093,county,5/1/20,Shelter in Place,stop
+GA,Clayton County,13063,county,4/12/20,Shelter in Place,stop
+TX,,,state,4/30/20,Shelter in Place,stop
+MO,,,state,5/4/20,Gyms,stop
+MS,Calhoun,28013,county,8/3/20,Phase 3,stop
+NE,,,state,5/18/20,Food and Drink,stop
+MS,Warren County,28149,county,4/20/20,Shelter in Place,stop
+MO,Jackson,29095,county,5/31/20,Personal Care,stop
+IN,Marion,18097,county,5/13/20,Phase 3,stop
+VA,,,state,5/29/20,Non-Essential Businesses,stop
+KS,,,state,5/4/20,Non-Essential Businesses,stop
+MO,Jefferson County,29099,county,4/23/20,Shelter in Place,stop
+CA,Mendocino County,6045,county,5/10/20,Shelter in Place,stop
+TX,Milam County,48331,county,5/4/20,Shelter in Place,stop
+MS,Holmes,28051,county,8/3/20,Phase 3,stop
+FL,Palm Beach,12099,county,7/5/20,Outdoor and Recreation,stop
+PA,Forest County,42053,county,4/30/20,Shelter in Place,stop
+PA,Westmoreland County,42129,county,4/30/20,Shelter in Place,stop
+TX,Bexar,48029,county,6/4/20,Food and Drink,stop
+NE,Howard,31093,county,5/11/20,Shelter in Place,stop
+AK,Skagway Municipality,2230,county,4/8/20,Shelter in Place,stop
+TN,Montgomery County,47125,county,4/8/20,Shelter in Place,stop
+CO,Arapahoe County,8005,county,3/26/20,Shelter in Place,stop
+NE,Nuckolls,31129,county,5/11/20,Shelter in Place,stop
+PR,,,state,5/24/20,Shelter in Place,stop
+NE,Pierce,31139,county,5/11/20,Shelter in Place,stop
+NM,,,state,6/1/20,Food and Drink,stop
+NE,Pawnee,31133,county,5/11/20,Shelter in Place,stop
+NE,Kearney,31099,county,5/11/20,Shelter in Place,stop
+MS,Harrison,28047,county,7/20/20,Non-Essential Businesses,stop
+MS,Yalobusha,28161,county,8/3/20,Phase 3,stop
+IN,Marion,18097,county,5/13/20,Phase 3,stop
+NE,Butler,31023,county,5/6/20,Shelter in Place,stop
+KS,Douglas County,20045,county,4/23/20,Shelter in Place,stop
+CA,Solano County,6095,county,4/30/20,Shelter in Place,stop
+TX,Montague County,48337,county,4/2/20,Shelter in Place,stop
+CO,Douglas County,8035,county,3/26/20,Shelter in Place,stop
+GA,Bartow County,13015,county,4/7/20,Shelter in Place,stop
+MS,Wayne,28153,county,7/20/20,Food and Drink,stop
+CO,San Miguel County,8113,county,5/1/20,Shelter in Place,stop
+FL,Miami-Dade,12086,county,7/6/20,Outdoor and Recreation,stop
+KS,Sumner County,20191,county,4/25/20,Shelter in Place,stop
+PA,Pike County,42103,county,4/30/20,Shelter in Place,stop
+CO,,,state,5/1/20,Non-Essential Businesses,stop
+GA,,,state,5/1/20,Non-Essential Businesses,stop
+AZ,,,state,5/8/20,Non-Essential Businesses,stop
+NE,Otoe,31131,county,5/11/20,Shelter in Place,stop
+VA,,,state,6/10/20,Shelter in Place,stop
+MO,,,state,5/4/20,Non-Essential Businesses,stop
+MO,Cass County,29037,county,4/24/20,Shelter in Place,stop
+TX,Hockley County,48219,county,4/30/20,Shelter in Place,stop
+FL,Alachua County,12001,county,5/3/20,Shelter in Place,stop
+TX,Burnet County,48053,county,4/2/20,Shelter in Place,stop
+HI,Honolulu,15003,county,10/31/20,Non-Essential Businesses,stop
+OK,,,state,5/1/20,Gyms,stop
+MS,Wayne,28153,county,7/20/20,Outdoor and Recreation,stop
+IA,Polk,19153,county,9/20/20,Food and Drink,stop
+NE,Dakota,31043,county,5/11/20,Shelter in Place,stop
+NE,Garfield,31071,county,5/11/20,Shelter in Place,stop
+NC,,,state,5/22/20,Food and Drink,stop
+AK,,,state,5/8/20,Gyms,stop
+MS,Grenada,28043,county,7/20/20,Day Care,stop
+MA,,,state,5/18/20,Non-Essential Businesses,stop
+AL,,,state,4/30/20,Non-Essential Businesses,stop
+GA,Gwinnett County,13135,county,4/13/20,Shelter in Place,stop
+MS,DeSoto,28033,county,7/20/20,Food and Drink,stop
+NH,,,state,5/11/20,Non-Essential Businesses,stop
+HI,,,state,6/19/20,Gyms,stop
+HI,Honolulu,15003,county,10/31/20,Phase 1,stop
+NE,Boyd,31015,county,5/11/20,Shelter in Place,stop
+NE,Cherry,31031,county,5/11/20,Shelter in Place,stop
+TX,Williamson County,48491,county,4/30/20,Shelter in Place,stop
+MO,St. Louis city,29510,county,4/22/20,Shelter in Place,stop
+TX,Llano County,48299,county,4/20/20,Shelter in Place,stop
+MS,Harrison,28047,county,7/20/20,Entertainment,stop
+NE,Webster,31181,county,5/11/20,Shelter in Place,stop
+WV,Monongalia,54061,county,8/20/20,Food and Drink,stop
+MS,Washington,28151,county,7/20/20,Houses of Worship,stop
+ME,Lincoln,23015,county,7/8/20,Mask Requirement,start
+MS,Jackson,28059,county,7/13/20,Food and Drink,start
+ND,Pembina,38067,county,9/3/20,Non-Essential Businesses,start
+CO,,,state,3/20/20,Allow Expand Medicaid Telehealth Coverage,start
+PA,Carbon County,42025,county,3/30/20,Shelter in Place,start
+NY,Bronx,36005,county,6/8/20,Non-Essential Businesses,start
+FL,,,state,3/18/20,Allow Expand Medicaid Telehealth Coverage,start
+MI,Delta,26041,county,7/31/20,Entertainment,start
+MS,Harrison,28047,county,7/13/20,Outdoor and Recreation,start
+NE,Box Butte,31013,county,3/30/20,Shelter in Place,start
+AR,,,state,3/11/20,State of Emergency,start
+MO,Jackson,29095,county,5/11/20,Personal Care,start
+TX,Frio County,48163,county,3/30/20,Shelter in Place,start
+MO,Jackson,29095,county,5/11/20,Phase 1,start
+ND,Wells,38103,county,9/3/20,Phase 5,start
+RI,,,state,4/18/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+CA,,,state,3/19/20,Non-Essential Businesses,start
+PA,Columbia,42037,county,6/12/20,Phase 2,start
+IN,Marion,18097,county,5/11/20,Phase 2,start
+NE,Grant,31075,county,3/30/20,Shelter in Place,start
+NE,Seward,31159,county,3/28/20,Shelter in Place,start
+ID,Adams,16003,county,6/13/20,Houses of Worship,start
+ND,Stark,38089,county,9/3/20,Phase 3,start
+MO,Jackson,29095,county,5/11/20,Entertainment,start
+KS,Osage County,20139,county,3/28/20,Shelter in Place,start
+TX,Armstrong,48011,county,7/3/20,Mask Requirement,start
+WI,Dane,55025,county,5/26/20,Non-Essential Businesses,start
+NJ,,,state,5/26/20,Resumed Elective Medical Procedures,start
+NE,Burt,31021,county,3/29/20,Shelter in Place,start
+OH,Union,39159,county,7/17/20,Mask Requirement,start
+MI,Mackinac,26097,county,7/31/20,Entertainment,start
+MT,,,state,7/15/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+VT,,,state,3/18/20,Order Freezing Utility Shut Offs,start
+TX,Concho,48095,county,7/3/20,Mask Requirement,start
+ND,Burleigh,38015,county,9/3/20,Outdoor and Recreation,start
+IL,Clinton,17027,county,8/18/20,Food and Drink,start
+CA,Colusa County,6011,county,4/10/20,Shelter in Place,start
+PA,Philadelphia,42101,county,6/26/20,Phase 2,start
+ND,McIntosh,38051,county,9/3/20,Non-Essential Businesses,start
+WV,,,state,3/16/20,Allow Audio Only Telehealth,start
+PA,Erie County,42049,county,3/25/20,Shelter in Place,start
+ME,York,23031,county,6/1/20,Non-Essential Businesses,start
+AR,,,state,3/13/20,Allow Audio Only Telehealth,start
+OH,Richland,39139,county,7/17/20,Mask Requirement,start
+FL,Broward,12011,county,5/18/20,Personal Care,start
+OH,Fairfield,39045,county,7/10/20,Mask Requirement,start
+IN,,,state,3/24/20,Shelter in Place,start
+MO,Greene County,29077,county,3/26/20,Shelter in Place,start
+TX,Aransas County,48007,county,3/28/20,Shelter in Place,start
+TX,Starr County,48427,county,3/25/20,Shelter in Place,start
+TX,Hardeman,48197,county,7/3/20,Mask Requirement,start
+ND,Rolette,38079,county,9/3/20,Food and Drink,start
+TX,Wichita County,48485,county,3/30/20,Shelter in Place,start
+KS,Shawnee County,20177,county,3/26/20,Shelter in Place,start
+DC,,,state,3/16/20,Childcare (K-12),start
+PA,Franklin,42055,county,6/19/20,Phase 2,start
+UT,,,state,4/22/20,Resumed Elective Medical Procedures,start
+MO,Lafayette County,29107,county,3/31/20,Shelter in Place,start
+WI,Dane,55025,county,5/26/20,Houses of Worship,start
+IA,,,state,3/13/20,Allow Expand Medicaid Telehealth Coverage,start
+NE,Harlan,31083,county,3/31/20,Shelter in Place,start
+OH,,,state,3/24/20,Non-Essential Businesses,start
+IA,,,state,3/26/20,Non-Essential Businesses,start
+ND,McLean,38055,county,9/3/20,Childcare (K-12),start
+CT,,,state,3/20/20,Stop Enforcement Of Evictions Overall Or Due To Covid Related Issues,start
+LA,,,state,3/16/20,Childcare (K-12),start
+MI,,,state,3/28/20,Order Freezing Utility Shut Offs,start
+WA,,,state,3/16/20,Entertainment,start
+MO,,,state,3/23/20,Food and Drink,start
+ND,,,state,3/20/20,Allow Audio Only Telehealth,start
+MS,Quitman,28119,county,7/13/20,Manufacturing,start
+GU,,,state,3/20/20,Shelter in Place,start
+MA,,,state,3/26/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+MT,,,state,3/30/20,Stop Enforcement Of Evictions Overall Or Due To Covid Related Issues,start
+NE,Thayer,31169,county,4/3/20,Shelter in Place,start
+UT,San Juan,49037,county,6/12/20,Phase 2,start
+CO,Denver,8031,county,6/6/20,Phase 2,start
+TX,Bexar,48029,county,5/19/20,Non-Essential Businesses,start
+WI,,,state,3/25/20,Shelter in Place,start
+MA,,,state,3/16/20,Nursing Homes,start
+ND,LaMoure,38045,county,9/3/20,Phase 5,start
+NE,,,state,4/3/20,Entertainment,start
+RI,,,state,3/18/20,Allow Audio Only Telehealth,start
+KY,,,state,3/23/20,Day Care,start
+TX,Anderson County,48001,county,4/2/20,Shelter in Place,start
+TX,Hardin County,48199,county,3/27/20,Shelter in Place,start
+NC,Orange County,37135,county,3/27/20,Shelter in Place,start
+MI,Benzie,26019,county,7/31/20,Entertainment,start
+UT,Emery,49015,county,6/19/20,Phase 4,start
+OH,Lucas,39095,county,7/17/20,Mask Requirement,start
+MS,,,state,8/5/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+CO,,,state,3/17/20,Gyms,start
+FL,Gadsden County,12039,county,3/27/20,Shelter in Place,start
+OK,,,state,4/1/20,Food and Drink,start
+ND,LaMoure,38045,county,9/3/20,Non-Essential Businesses,start
+MA,,,state,3/24/20,Non-Essential Businesses,start
+AR,,,state,4/10/20,Order Freezing Utility Shut Offs,start
+NE,Hall,31079,county,3/28/20,Shelter in Place,start
+NY,Kings,36047,county,6/8/20,New Phase,start
+NM,,,state,3/20/20,Allow Audio Only Telehealth,start
+OH,,,state,5/1/20,Resumed Elective Medical Procedures,start
+AK,,,state,3/20/20,Allow Expand Medicaid Telehealth Coverage,start
+TX,Castro County,48069,county,3/24/20,Shelter in Place,start
+CA,Alameda,6001,county,5/18/20,Manufacturing,start
+NY,Queens,36081,county,6/8/20,Wholesale Trade,start
+ID,,,state,3/25/20,Non-Essential Businesses,start
+NY,,,state,3/7/20,State of Emergency,start
+TX,Andrews County,48003,county,4/4/20,Shelter in Place,start
+WV,Jefferson County,54037,county,4/6/20,Shelter in Place,start
+IA,Dallas,19049,county,8/27/20,Food and Drink,start
+MS,Jefferson,28063,county,7/13/20,Childcare (K-12),start
+TX,King,48269,county,7/3/20,Mask Requirement,start
+DE,,,state,3/16/20,Childcare (K-12),start
+MD,,,state,3/16/20,Childcare (K-12),start
+KS,,,state,7/3/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+NE,Sarpy,31153,county,3/18/20,Shelter in Place,start
+MS,,,state,3/14/20,State of Emergency,start
+MD,,,state,3/26/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+IL,Madison,17119,county,8/18/20,Entertainment,start
+MI,Manistee,26101,county,7/31/20,Outdoor and Recreation,start
+TX,,,state,3/19/20,Stop Enforcement Of Evictions Overall Or Due To Covid Related Issues,start
+OH,Lorain,39093,county,7/10/20,Mask Requirement,start
+CO,,,state,3/20/20,Order Freezing Utility Shut Offs,start
+GA,Fulton County,13121,county,4/1/20,Shelter in Place,start
+MI,Marquette,26103,county,7/31/20,Entertainment,start
+UT,,,state,4/10/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+NY,Kings,36047,county,6/8/20,Non-Essential Businesses,start
+NV,,,state,3/17/20,Reopened ACA Enrollment Using a Special Enrollment Period,start
+TX,Throckmorton,48447,county,7/3/20,Mask Requirement,start
+VT,,,state,3/18/20,Childcare (K-12),start
+NM,,,state,3/13/20,Nursing Homes,start
+ME,Androscoggin,23001,county,6/1/20,Food and Drink,start
+GA,,,state,3/18/20,Childcare (K-12),start
+CO,,,state,3/26/20,Shelter in Place,start
+CA,Kings County,6031,county,3/31/20,Shelter in Place,start
+TX,Rains,48379,county,7/3/20,Mask Requirement,start
+WI,,,state,8/1/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+MO,Iron County,29093,county,4/6/20,Shelter in Place,start
+NC,Henderson County,37089,county,3/28/20,Shelter in Place,start
+ME,,,state,4/2/20,Shelter in Place,start
+MO,Jackson,29095,county,10/9/20,Day Care,start
+ND,Barnes,38003,county,9/3/20,Childcare (K-12),start
+HI,,,state,3/26/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+MO,Dade County,29057,county,4/2/20,Shelter in Place,start
+MN,,,state,3/27/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+KY,,,state,5/11/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+MI,Alpena,26007,county,7/31/20,Outdoor and Recreation,start
+MO,,,state,3/26/20,Allow Audio Only Telehealth,start
+UT,,,state,3/27/20,Shelter in Place,start
+NC,Mecklenburg County,37119,county,3/26/20,Shelter in Place,start
+ND,Pierce,38069,county,9/3/20,Childcare (K-12),start
+GA,,,state,4/3/20,Entertainment,start
+FL,,,state,5/8/20,Resumed Elective Medical Procedures,start
+AZ,,,state,3/23/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+VA,,,state,5/29/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+TX,Callahan County,48059,county,4/8/20,Shelter in Place,start
+MI,Charlevoix,26029,county,7/31/20,Entertainment,start
+ID,,,state,3/25/20,Entertainment,start
+CA,Sonoma County,6097,county,3/18/20,Shelter in Place,start
+TX,Roberts,48393,county,7/3/20,Mask Requirement,start
+KY,,,state,4/1/20,Stop Initiation Of Evictions Overall Or Due To Covid Related Issues,start
+GA,,,state,3/18/20,Allow Audio Only Telehealth,start
+GA,Douglas County,13097,county,3/26/20,Shelter in Place,start
+TX,Mills,48333,county,7/3/20,Mask Requirement,start
+AL,,,state,3/13/20,State of Emergency,start
+TX,Comal County,48091,county,4/3/20,Shelter in Place,start
+MI,Schoolcraft,26153,county,7/31/20,Outdoor and Recreation,start
+CO,San Miguel County,8113,county,3/19/20,Shelter in Place,start
+MI,Alger,26003,county,7/31/20,Entertainment,start
+MS,Washington,28151,county,7/13/20,Childcare (K-12),start
+LA,,,state,4/27/20,Resumed Elective Medical Procedures,start
+TX,Lynn,48305,county,7/3/20,Mask Requirement,start
+MN,,,state,3/24/20,Stop Enforcement Of Evictions Overall Or Due To Covid Related Issues,start
+MS,Harrison,28047,county,7/13/20,Entertainment,start
+NH,,,state,3/17/20,Order Freezing Utility Shut Offs,start
+VA,,,state,3/25/20,Gyms,start
+UT,Davis County,49011,county,4/1/20,Shelter in Place,start
+ND,Nelson,38063,county,9/3/20,Outdoor and Recreation,start
+NY,,,state,3/20/20,Stop Enforcement Of Evictions Overall Or Due To Covid Related Issues,start
+ME,Cumberland,23005,county,6/1/20,Non-Essential Businesses,start
+ND,Pierce,38069,county,9/3/20,Phase 5,start
+TX,Coke,48081,county,7/3/20,Mask Requirement,start
+MS,Harrison,28047,county,7/13/20,Food and Drink,start
+TX,Robertson County,48395,county,3/25/20,Shelter in Place,start
+FL,Miami-Dade,12086,county,7/9/20,Personal Care,start
+IL,,,state,3/17/20,Childcare (K-12),start
+ND,Barnes,38003,county,9/3/20,Phase 3,start
+CT,,,state,3/12/20,Order Freezing Utility Shut Offs,start
+MA,,,state,3/12/20,Allow Expand Medicaid Telehealth Coverage,start
+MS,Wayne,28153,county,7/13/20,Food and Drink,start
+MS,,,state,3/20/20,Childcare (K-12),start
+TX,Cottle,48101,county,7/3/20,Mask Requirement,start
+MI,Leelanau,26089,county,7/31/20,Outdoor and Recreation,start
+MI,Iron,26071,county,7/31/20,Outdoor and Recreation,start
+TX,Sherman,48421,county,7/3/20,Mask Requirement,start
+LA,,,state,3/23/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+UT,Wayne,49055,county,6/19/20,Phase 4,start
+MO,Perry County,29157,county,3/26/20,Shelter in Place,start
+SC,Williamsburg County,45089,county,3/27/20,Shelter in Place,start
+TX,,,state,3/19/20,Stop Initiation Of Evictions Overall Or Due To Covid Related Issues,start
+OH,Delaware,39041,county,7/23/20,Public Health Advisory System,start
+MI,,,state,3/14/20,Nursing Homes,start
+VA,,,state,5/29/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+NC,Pitt County,37147,county,3/25/20,Shelter in Place,start
+MO,Jackson,29095,county,5/11/20,Outdoor and Recreation,start
+SC,,,state,4/1/20,Non-Essential Businesses,start
+MD,,,state,3/16/20,Stop Initiation Of Evictions Overall Or Due To Covid Related Issues,start
+NE,Colfax,31037,county,4/3/20,Shelter in Place,start
+LA,,,state,3/23/20,Non-Essential Businesses,start
+TX,,,state,3/21/20,Gyms,start
+MO,,,state,4/3/20,Non-Essential Businesses,start
+NC,,,state,3/17/20,Food and Drink,start
+TX,Walker County,48471,county,4/9/20,Shelter in Place,start
+AL,,,state,3/19/20,Food and Drink,start
+NY,,,state,3/1/20,Allow Expand Medicaid Telehealth Coverage,start
+IA,Black Hawk,19013,county,8/27/20,Food and Drink,start
+MO,Jackson,29095,county,5/11/20,Food and Drink,start
+AL,,,state,3/28/20,Gyms,start
+NV,,,state,6/26/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+NE,Dakota,31043,county,4/3/20,Shelter in Place,start
+ND,Rolette,38079,county,9/3/20,Outdoor and Recreation,start
+OH,,,state,3/18/20,Suspended Elective Medical Dental Procedures,start
+OH,,,state,4/22/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+WY,,,state,5/20/20,Renter Grace Period Or Use Of Security Deposit To Pay Rent,start
+NH,Coos,33007,county,6/15/20,Food and Drink,start
+MS,Rankin,28121,county,7/13/20,Non-Essential Businesses,start
+MN,,,state,3/17/20,Food and Drink,start
+IL,,,state,3/16/20,Food and Drink,start
+ME,Hancock,23009,county,7/8/20,Mask Requirement,start
+NV,,,state,4/7/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+PA,,,state,3/16/20,Childcare (K-12),start
+NM,,,state,5/15/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+PA,Lehigh County,42077,county,3/25/20,Shelter in Place,start
+TX,Wheeler,48483,county,7/3/20,Mask Requirement,start
+AK,,,state,3/18/20,Entertainment,start
+GA,Dougherty County,13095,county,3/22/20,Shelter in Place,start
+MN,,,state,3/23/20,Suspended Elective Medical Dental Procedures,start
+ME,Penobscot,23019,county,6/1/20,Food and Drink,start
+OH,Clermont,39025,county,7/23/20,Public Health Advisory System,start
+PA,Monroe,42089,county,6/19/20,Phase 2,start
+ND,Foster,38031,county,9/3/20,Non-Essential Businesses,start
+IN,Marion County,18097,county,3/25/20,Shelter in Place,start
+TX,Baylor,48023,county,7/3/20,Mask Requirement,start
+MI,,,state,1/1/20,Allow Audio Only Telehealth,start
+NE,Polk,31143,county,3/28/20,Shelter in Place,start
+CA,San Francisco,6075,county,9/30/20,Outdoor and Recreation,start
+LA,,,state,3/12/20,Nursing Homes,start
+SD,,,state,3/13/20,State of Emergency,start
+KS,Saline County,20169,county,3/30/20,Shelter in Place,start
+NE,Knox,31107,county,4/1/20,Shelter in Place,start
+NV,,,state,3/21/20,Food and Drink,start
+TX,Brown County,48049,county,3/27/20,Shelter in Place,start
+NJ,,,state,3/27/20,Suspended Elective Medical Dental Procedures,start
+ND,Morton,38059,county,9/3/20,Phase 3,start
+MS,Jefferson,28063,county,7/13/20,Food and Drink,start
+MS,Wayne,28153,county,7/13/20,Day Care,start
+TN,,,state,3/24/20,Suspended Elective Medical Dental Procedures,start
+FL,,,state,3/15/20,Nursing Homes,start
+TX,Coryell County,48099,county,4/8/20,Shelter in Place,start
+PA,Montgomery County,42091,county,3/23/20,Shelter in Place,start
+NY,Richmond,36085,county,6/8/20,construction,start
+WA,,,state,3/25/20,Allow Audio Only Telehealth,start
+NH,,,state,3/17/20,Stop Enforcement Of Evictions Overall Or Due To Covid Related Issues,start
+ME,Kennebec,23011,county,5/18/20,Food and Drink,start
+TX,Henderson County,48213,county,4/7/20,Shelter in Place,start
+ND,Mercer,38057,county,9/3/20,Non-Essential Businesses,start
+MS,Wayne,28153,county,7/13/20,Non-Essential Businesses,start
+TX,Angelina County,48005,county,3/30/20,Shelter in Place,start
+MS,Jefferson,28063,county,7/13/20,Day Care,start
+AK,,,state,4/20/20,Resumed Elective Medical Procedures,start
+MS,Sunflower,28133,county,7/13/20,Non-Essential Businesses,start
+NE,Frontier,31063,county,4/3/20,Shelter in Place,start
+NE,Garfield,31071,county,4/3/20,Shelter in Place,start
+MA,Suffolk,25025,county,6/1/20,Non-Essential Businesses,start
+NE,Antelope,31003,county,4/1/20,Shelter in Place,start
+DE,,,state,5/1/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+NE,Boone,31011,county,4/3/20,Shelter in Place,start
+MI,Houghton,26061,county,7/31/20,Entertainment,start
+NE,Logan,31113,county,4/1/20,Shelter in Place,start
+OK,,,state,3/15/20,State of Emergency,start
+NY,Bronx,36005,county,7/6/20,Phase 3,start
+NH,,,state,3/16/20,Childcare (K-12),start
+MT,,,state,3/20/20,Order Freezing Utility Shut Offs,start
+MS,,,state,3/24/20,Food and Drink,start
+ND,Stark,38089,county,9/3/20,Outdoor and Recreation,start
+NY,Queens,36081,county,6/8/20,New Phase,start
+NE,Nance,31125,county,4/3/20,Shelter in Place,start
+ME,,,state,4/2/20,Childcare (K-12),start
+MI,Delta,26041,county,7/31/20,Outdoor and Recreation,start
+FL,Palm Beach,12099,county,7/3/20,Non-Essential Businesses,start
+NE,Buffalo,31019,county,3/31/20,Shelter in Place,start
+CA,,,state,3/19/20,Shelter in Place,start
+ND,Mercer,38057,county,9/3/20,Childcare (K-12),start
+ND,Billings,38007,county,9/3/20,Non-Essential Businesses,start
+MS,Warren County,28149,county,4/3/20,Shelter in Place,start
+NJ,,,state,3/23/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+WV,,,state,3/16/20,State of Emergency,start
+MI,,,state,5/29/20,Resumed Elective Medical Procedures,start
+WI,Dane County,55025,county,5/13/20,Shelter in Place,start
+OH,Marion,39101,county,7/23/20,Public Health Advisory System,start
+MS,Harrison,28047,county,7/13/20,Manufacturing,start
+ME,Hancock,23009,county,5/18/20,Outdoor and Recreation,start
+TX,Zapata County,48505,county,4/1/20,Shelter in Place,start
+TX,Galveston County,48167,county,3/24/20,Shelter in Place,start
+PA,,,state,3/19/20,Gyms,start
+MT,,,state,3/19/20,Allow Expand Medicaid Telehealth Coverage,start
+GA,Floyd County,13115,county,3/25/20,Shelter in Place,start
+TX,Willacy County,48489,county,3/26/20,Shelter in Place,start
+MO,Platte County,29165,county,3/24/20,Shelter in Place,start
+HI,Maui County,15009,county,3/25/20,Shelter in Place,start
+PA,Juniata,42067,county,6/12/20,Phase 2,start
+ND,Burleigh,38015,county,9/3/20,Non-Essential Businesses,start
+MS,Harrison,28047,county,7/13/20,Non-Essential Businesses,start
+MS,Rankin,28121,county,7/13/20,Childcare (K-12),start
+RI,,,state,4/10/20,Stop Enforcement Of Evictions Overall Or Due To Covid Related Issues,start
+TX,San Patricio County,48409,county,3/30/20,Shelter in Place,start
+MS,Grenada,28043,county,7/13/20,Entertainment,start
+ND,Barnes,38003,county,9/3/20,Non-Essential Businesses,start
+MI,Menominee,26109,county,7/31/20,Entertainment,start
+ID,,,state,3/16/20,Stop Initiation Of Evictions Overall Or Due To Covid Related Issues,start
+VA,,,state,3/12/20,State of Emergency,start
+PA,Crawford County,42039,county,3/31/20,Shelter in Place,start
+TX,Bexar,48029,county,5/19/20,Manufacturing,start
+ND,McIntosh,38051,county,9/3/20,Outdoor and Recreation,start
+NJ,,,state,3/22/20,Allow Audio Only Telehealth,start
+TX,Milam County,48331,county,3/25/20,Shelter in Place,start
+WV,,,state,5/4/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+TX,Bee County,48025,county,3/28/20,Shelter in Place,start
+TX,Bexar,48029,county,5/19/20,Outdoor and Recreation,start
+OH,Licking,39089,county,7/17/20,Mask Requirement,start
+MS,Jackson,28059,county,7/13/20,Day Care,start
+NH,Merrimack,33013,county,6/15/20,Food and Drink,start
+CA,Alameda,6001,county,5/29/20,Non-Essential Businesses,start
+TX,Collin County,48085,county,3/24/20,Shelter in Place,start
+IN,,,state,3/19/20,Order Freezing Utility Shut Offs,start
+CA,Stanislaus County,6099,county,4/2/20,Shelter in Place,start
+ME,,,state,3/16/20,Order Freezing Utility Shut Offs,start
+NE,Rock,31149,county,4/1/20,Shelter in Place,start
+NM,,,state,3/19/20,Food and Drink,start
+OH,Franklin,39049,county,7/23/20,Public Health Advisory System,start
+MA,,,state,3/23/20,Day Care,start
+MS,,,state,3/23/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+MS,Grenada,28043,county,7/13/20,Non-Essential Businesses,start
+ND,Pierce,38069,county,9/3/20,Food and Drink,start
+NJ,,,state,3/16/20,Food and Drink,start
+MO,Crawford County,29055,county,4/30/20,Shelter in Place,stop
+NE,Wheeler,31183,county,5/11/20,Shelter in Place,stop
+TX,Fort Bend County,48157,county,4/30/20,Shelter in Place,stop
+NE,Perkins,31135,county,5/11/20,Shelter in Place,stop
+CA,Riverside County,6065,county,4/30/20,Shelter in Place,stop
+ID,,,state,5/1/20,Non-Essential Businesses,stop
+CO,Adams County,8001,county,3/26/20,Shelter in Place,stop
+HI,Maui County,15009,county,4/30/20,Shelter in Place,stop
+TX,Kleberg County,48273,county,4/30/20,Shelter in Place,stop
+TX,Hidalgo County,48215,county,4/30/20,Shelter in Place,stop
+TX,San Jacinto County,48407,county,4/19/20,Shelter in Place,stop
+PA,Erie County,42049,county,4/6/20,Shelter in Place,stop
+MS,Jefferson,28063,county,7/20/20,Food and Drink,stop
+NE,Sioux,31165,county,5/11/20,Shelter in Place,stop
+NE,,,state,5/18/20,Gyms,stop
+NE,Dawson,31047,county,5/11/20,Shelter in Place,stop
+TX,Deaf Smith County,48117,county,5/7/20,Shelter in Place,stop
+CO,,,state,5/27/20,Food and Drink,stop
+NY,,,state,5/15/20,Non-Essential Businesses,stop
+CA,Sonoma County,6097,county,5/3/20,Shelter in Place,stop
+IN,Cass,18017,state,6/1/20,Phase 2,stop
+NE,Merrick,31121,county,5/6/20,Shelter in Place,stop
+HI,Honolulu,15003,county,10/31/20,Mask Requirement,stop
+TX,Starr County,48427,county,5/4/20,Shelter in Place,stop
+MS,Harrison,28047,county,7/20/20,Outdoor and Recreation,stop
+TX,Comal County,48091,county,4/30/20,Shelter in Place,stop
+MO,Clark County,29045,county,4/30/20,Shelter in Place,stop
+KS,Leavenworth County,20103,county,4/23/20,Shelter in Place,stop
+MS,Rankin,28121,county,7/20/20,Non-Essential Businesses,stop
+MS,Jefferson,28063,county,7/20/20,Entertainment,stop
+NC,Buncombe County,37021,county,4/9/20,Shelter in Place,stop
+MS,Jackson,28059,county,7/20/20,Childcare (K-12),stop
+MS,Madison,28089,county,7/20/20,Manufacturing,stop
+MS,Claiborne,28021,county,7/20/20,Outdoor and Recreation,stop
+SC,,,state,5/4/20,Food and Drink,stop
+PA,Franklin County,42055,county,4/30/20,Shelter in Place,stop
+AK,Haines Borough,2100,county,4/15/20,Shelter in Place,stop
+OH,,,state,5/20/20,Gyms,stop
+MI,,,state,6/8/20,Food and Drink,stop
+NY,,,state,6/22/20,Food and Drink,stop
+MN,,,state,4/27/20,Non-Essential Businesses,stop
+TX,Presidio County,48377,county,4/7/20,Shelter in Place,stop
+IN,Marion County,18097,county,5/15/20,Shelter in Place,stop
+MS,Grenada,28043,county,7/20/20,Non-Essential Businesses,stop
+MO,Perry County,29157,county,4/24/20,Shelter in Place,stop
+GA,Fulton,13121,county,4/30/20,Outdoor and Recreation,stop
+NE,Sheridan,31161,county,5/11/20,Shelter in Place,stop
+NE,Richardson,31147,county,5/11/20,Shelter in Place,stop
+NE,Garden,31069,county,5/11/20,Shelter in Place,stop
+IA,Johnson,19103,county,8/27/20,Food and Drink,start
+NM,,,state,3/19/20,Order Freezing Utility Shut Offs,start
+TX,,,state,3/21/20,Nursing Homes,start
+NE,,,state,3/25/20,Stop Initiation Of Evictions Overall Or Due To Covid Related Issues,start
+IA,Linn,19113,county,8/27/20,Food and Drink,start
+NJ,,,state,3/18/20,Childcare (K-12),start
+MO,Crawford County,29055,county,4/1/20,Shelter in Place,start
+TX,Briscoe,48045,county,7/3/20,Mask Requirement,start
+SC,,,state,4/1/20,Entertainment,start
+NE,Douglas,31055,county,3/18/20,Shelter in Place,start
+WV,,,state,3/24/20,Entertainment,start
+UT,,,state,3/6/20,State of Emergency,start
+TX,Swisher County,48437,county,4/6/20,Shelter in Place,start
+MO,Scott County,29201,county,4/4/20,Shelter in Place,start
+CA,Amador County,6005,county,3/20/20,Shelter in Place,start
+ND,Wells,38103,county,9/3/20,Non-Essential Businesses,start
+IN,Lake,18089,county,6/1/20,Phase 3,start
+LA,,,state,3/13/20,Order Freezing Utility Shut Offs,start
+TX,Bell County,48027,county,3/23/20,Shelter in Place,start
+WI,Dane,55025,county,5/26/20,Entertainment,start
+ME,Sagadahoc,23023,county,5/18/20,Food and Drink,start
+ND,,,state,3/13/20,State of Emergency,start
+WI,,,state,3/12/20,Allow Expand Medicaid Telehealth Coverage,start
+AK,,,state,4/2/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+MI,,,state,3/24/20,Non-Essential Businesses,start
+OR,Benton,41003,county,6/5/20,New Phase,start
+NE,Sheridan,31161,county,3/30/20,Shelter in Place,start
+TX,Dallas County,48113,county,3/23/20,Shelter in Place,start
+ND,Griggs,38039,county,9/3/20,Childcare (K-12),start
+MA,,,state,3/18/20,Suspended Elective Medical Dental Procedures,start
+NE,Kearney,31099,county,3/31/20,Shelter in Place,start
+AZ,,,state,3/16/20,Childcare (K-12),start
+RI,,,state,3/23/20,Entertainment,start
+MS,Madison,28089,county,7/13/20,Day Care,start
+IL,Bond,17005,county,8/18/20,Entertainment,start
+MS,Madison,28089,county,7/13/20,Houses of Worship,start
+ND,Wells,38103,county,9/3/20,Childcare (K-12),start
+RI,,,state,4/18/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+TX,Kenedy County,48261,county,3/31/20,Shelter in Place,start
+CA,,,state,3/4/20,State of Emergency,start
+HI,,,state,3/17/20,Stop Enforcement Of Evictions Overall Or Due To Covid Related Issues,start
+WI,,,state,3/25/20,Entertainment,start
+TX,Young County,48503,county,4/1/20,Shelter in Place,start
+PA,Lebanon,42075,county,7/3/20,Phase 2,start
+NY,Cattaraugus,36009,county,6/16/20,Food and Drink,start
+CA,,,state,3/19/20,Entertainment,start
+NE,Butler,31023,county,3/28/20,Shelter in Place,start
+TN,Davidson County,47037,county,3/23/20,Shelter in Place,start
+ND,Cavalier,38019,county,9/3/20,Phase 5,start
+NM,,,state,3/19/20,Entertainment,start
+AK,,,state,3/11/20,State of Emergency,start
+NC,Gaston County,37071,county,3/27/20,Shelter in Place,start
+GA,,,state,3/14/20,State of Emergency,start
+SD,,,state,4/28/20,Resumed Elective Medical Procedures,start
+TX,Montague County,48337,county,3/26/20,Shelter in Place,start
+MS,Rankin,28121,county,7/13/20,Houses of Worship,start
+TX,Bexar,48029,county,5/19/20,Childcare (K-12),start
+ME,Knox,23013,county,5/11/20,Non-Essential Businesses,start
+MD,,,state,3/16/20,Entertainment,start
+PA,Wyoming,42131,county,6/12/20,Phase 2,start
+NE,Loup,31115,county,4/3/20,Shelter in Place,start
+TX,Montague,48337,county,7/3/20,Mask Requirement,start
+WI,Dane,55025,county,5/26/20,Food and Drink,start
+CO,Denver,8031,county,6/17/20,Entertainment,start
+AK,,,state,4/24/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+KS,,,state,3/18/20,Childcare (K-12),start
+NE,Kimball,31105,county,3/30/20,Shelter in Place,start
+ID,,,state,3/24/20,Childcare (K-12),start
+TX,Chambers County,48071,county,3/24/20,Shelter in Place,start
+NY,Cattaraugus,36009,county,6/16/20,Phase 3,start
+ME,Piscataquis,23021,county,5/18/20,Food and Drink,start
+OH,Allen,39003,county,7/17/20,Mask Requirement,start
+WV,,,state,3/24/20,Non-Essential Businesses,start
+AL,,,state,3/22/20,Allow Audio Only Telehealth,start
+WI,,,state,3/25/20,Gyms,start
+KS,Rooks County,20163,county,3/28/20,Shelter in Place,start
+MI,Roscommon,26143,county,7/31/20,Outdoor and Recreation,start
+NY,Allegany,36003,county,6/16/20,Phase 3,start
+MI,,,state,3/16/20,Entertainment,start
+NE,Cass,31025,county,3/18/20,Shelter in Place,start
+CA,Yolo County,6113,county,3/19/20,Shelter in Place,start
+CT,,,state,3/23/20,Non-Essential Businesses,start
+CA,Solano County,6095,county,3/18/20,Shelter in Place,start
+TX,Cameron County,48061,county,3/25/20,Shelter in Place,start
+HI,,,state,3/25/20,Gyms,start
+CA,Alameda,6001,county,5/18/20,Childcare (K-12),start
+PA,Cumberland County,42041,county,3/30/20,Shelter in Place,start
+TX,Franklin,48159,county,7/3/20,Mask Requirement,start
+ME,Hancock,23009,county,5/11/20,Non-Essential Businesses,start
+HI,,,state,4/16/20,Stop Initiation Of Evictions Overall Or Due To Covid Related Issues,start
+MN,,,state,3/17/20,Entertainment,start
+LA,,,state,3/17/20,Stop Initiation Of Evictions Overall Or Due To Covid Related Issues,start
+CA,Lake County,6033,county,3/19/20,Shelter in Place,start
+DE,,,state,3/19/20,Entertainment,start
+PA,Allegheny County,42003,county,3/23/20,Shelter in Place,start
+TN,,,state,3/12/20,State of Emergency,start
+NE,Lancaster,31109,county,3/25/20,Shelter in Place,start
+MO,Jackson,29095,county,5/11/20,Childcare (K-12),start
+TX,Yoakum,48501,county,7/3/20,Mask Requirement,start
+KS,,,state,4/1/20,Allow Expand Medicaid Telehealth Coverage,start
+ME,Androscoggin,23001,county,6/17/20,Outdoor and Recreation,start
+PA,Erie,42049,county,6/26/20,Phase 2,start
+ID,Adams,16003,county,6/13/20,Mask Requirement,start
+ND,Divide,38023,county,9/3/20,Food and Drink,start
+MI,Antrim,26009,county,7/31/20,Outdoor and Recreation,start
+FL,Broward,12011,county,5/18/20,Food and Drink,start
+TX,,,state,3/31/20,Non-Essential Businesses,start
+VT,,,state,3/25/20,Shelter in Place,start
+MI,Missaukee,26113,county,7/31/20,Outdoor and Recreation,start
+IL,St. Clair,17163,county,8/18/20,Food and Drink,start
+NY,Queens,36081,county,6/8/20,Manufacturing,start
+ND,Renville,38075,county,9/3/20,Food and Drink,start
+ME,Lincoln,23015,county,5/18/20,Food and Drink,start
+NE,Boyd,31015,county,4/1/20,Shelter in Place,start
+MO,Johnson County,29101,county,4/1/20,Shelter in Place,start
+OH,,,state,3/17/20,Entertainment,start
+TX,Cass County,48067,county,4/2/20,Shelter in Place,start
+MO,Vernon County,29217,county,4/3/20,Shelter in Place,start
+UT,Cache,49005,county,8/1/20,Mask Requirement,start
+IL,Madison,17119,county,8/18/20,Food and Drink,start
+OR,,,state,5/9/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+MA,,,state,5/6/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+NC,,,state,6/26/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+NE,Washington,31177,county,3/25/20,Shelter in Place,start
+MO,Reynolds County,29179,county,4/7/20,Shelter in Place,start
+ND,Cavalier,38019,county,9/3/20,Non-Essential Businesses,start
+NE,Nemaha,31127,county,4/3/20,Shelter in Place,start
+PA,Washington County,42125,county,3/28/20,Shelter in Place,start
+ME,,,state,3/18/20,Food and Drink,start
+DC,,,state,4/1/20,Shelter in Place,start
+CO,Boulder County,8013,county,3/26/20,Shelter in Place,start
+AL,,,state,4/30/20,Resumed Elective Medical Procedures,start
+OR,,,state,3/13/20,Allow Audio Only Telehealth,start
+MS,Madison,28089,county,7/13/20,Manufacturing,start
+PA,,,state,5/7/20,Stop Initiation Of Evictions Overall Or Due To Covid Related Issues,start
+MI,,,state,3/16/20,Food and Drink,start
+ND,Mercer,38057,county,9/3/20,Food and Drink,start
+RI,,,state,3/30/20,Non-Essential Businesses,start
+IL,,,state,3/9/20,State of Emergency,start
+OH,,,state,3/17/20,Childcare (K-12),start
+KS,,,state,3/30/20,Gyms,start
+ID,Ada,16001,county,6/24/20,Food and Drink,start
+PA,Chester,42029,county,6/26/20,Phase 2,start
+ND,,,state,4/6/20,Nursing Homes,start
+AZ,,,state,3/20/20,Food and Drink,start
+MI,Baraga,26013,county,7/31/20,Outdoor and Recreation,start
+ME,Cumberland,23005,county,7/8/20,Mask Requirement,start
+IA,,,state,4/27/20,Resumed Elective Medical Procedures,start
+MS,Madison,28089,county,7/20/20,Non-Essential Businesses,stop
+MS,Jackson,28059,county,7/20/20,Houses of Worship,stop
+NE,Hamilton,31081,county,5/6/20,Shelter in Place,stop
+TN,,,state,5/1/20,Gyms,stop
+WI,,,state,5/11/20,Non-Essential Businesses,stop
+PA,Cameron County,42023,county,4/30/20,Shelter in Place,stop
+FL,Orange County,12095,county,4/9/20,Shelter in Place,stop
+MD,,,state,5/15/20,Shelter in Place,stop
+TX,Smith County,48423,county,4/30/20,Shelter in Place,stop
+MO,Jackson,29095,county,5/31/20,Phase 1,stop
+MS,Grenada,28043,county,7/20/20,Houses of Worship,stop
+UT,,,state,5/1/20,Non-Essential Businesses,stop
+CA,Marin County,6041,county,5/31/20,Shelter in Place,stop
+MS,Hinds,28049,county,7/20/20,Childcare (K-12),stop
+KS,Reno County,20155,county,4/14/20,Shelter in Place,stop
+FL,,,state,5/4/20,Shelter in Place,stop
+KS,Johnson County,20091,county,4/23/20,Shelter in Place,stop
+TX,Callahan County,48059,county,5/4/20,Shelter in Place,stop
+MO,Jackson,29095,county,5/31/20,Childcare (K-12),stop
+NV,,,state,5/9/20,Non-Essential Businesses,stop
+KS,McPherson County,20113,county,4/25/20,Shelter in Place,stop
+RI,,,state,5/8/20,Shelter in Place,stop
+GA,,,state,4/24/20,Gyms,stop
+IN,Cass,18017,county,6/1/20,Phase 2,stop
+NE,Gage,31067,county,5/11/20,Shelter in Place,stop
+MT,,,state,4/27/20,Shelter in Place,stop
+AK,,,state,4/24/20,Food and Drink,stop
+MS,Quitman,28119,county,7/20/20,Childcare (K-12),stop
+NM,,,state,5/31/20,Shelter in Place,stop
+NE,Arthur,31005,county,5/11/20,Shelter in Place,stop
+TX,Guadalupe County,48187,county,4/30/20,Shelter in Place,stop
+MO,Christian County,29043,county,4/25/20,Shelter in Place,stop
+RI,,,state,6/1/20,Gyms,stop
+NE,Douglas,31055,county,4/30/20,Shelter in Place,stop
+LA,,,state,5/15/20,Shelter in Place,stop
+MO,Pulaski County,29169,county,4/30/20,Shelter in Place,stop
+IA,,,state,5/15/20,Food and Drink,stop
+NE,Boone,31011,county,5/11/20,Shelter in Place,stop
+CO,Pitkin County,8097,county,4/30/20,Shelter in Place,stop
+CA,Amador County,6005,county,4/30/20,Shelter in Place,stop
+WA,,,state,5/5/20,Non-Essential Businesses,stop
+MS,Rankin,28121,county,7/20/20,Outdoor and Recreation,stop
+KS,Miami County,20121,county,4/23/20,Shelter in Place,stop
+GA,Carroll County,13045,county,4/12/20,Shelter in Place,stop
+KS,Rooks County,20163,county,4/28/20,Shelter in Place,stop
+GA,Douglas County,13097,county,4/10/20,Shelter in Place,stop
+NE,Lancaster,31109,county,10/31/20,Food and Drink,stop
+SC,,,state,5/4/20,Shelter in Place,stop
+PA,Centre County,42027,county,4/30/20,Shelter in Place,stop
+TX,Ellis County,48139,county,4/30/20,Shelter in Place,stop
+NY,Allegany,36003,county,6/30/20,Non-Essential Businesses,stop
+NY,,,state,5/28/20,Shelter in Place,stop
+NE,Cass,31025,county,4/30/20,Shelter in Place,stop
+SC,,,state,4/20/20,Non-Essential Businesses,stop
+IL,,,state,5/29/20,Food and Drink,stop
+NE,Polk,31143,county,5/6/20,Shelter in Place,stop
+MO,Jackson,29095,county,5/31/20,Houses of Worship,stop
+IL,,,state,5/29/20,Shelter in Place,stop
+MD,,,state,5/29/20,Food and Drink,stop
+TX,Taylor County,48441,county,4/30/20,Shelter in Place,stop
+MO,Platte County,29165,county,4/23/20,Shelter in Place,stop
+MS,Wayne,28153,county,7/20/20,Non-Essential Businesses,stop
+CO,Denver County,8031,county,4/30/20,Shelter in Place,stop
+MS,Lauderdale County,28075,county,4/20/20,Shelter in Place,stop
+TX,McLennan County,48309,county,4/30/20,Shelter in Place,stop
+VT,,,state,5/22/20,Food and Drink,stop
+MS,Wayne,28153,county,7/20/20,Childcare (K-12),stop
+NY,Allegany,36003,county,6/30/20,Food and Drink,stop
+NE,Nance,31125,county,5/11/20,Shelter in Place,stop
+MO,Bates County,29013,county,4/24/20,Shelter in Place,stop
+NM,,,state,5/15/20,Non-Essential Businesses,stop
+FL,,,state,5/18/20,Non-Essential Businesses,stop
+PA,Chester County,42029,county,4/30/20,Shelter in Place,stop
+GA,Fulton,13121,county,4/30/20,Entertainment,stop
+GA,Fulton,13121,county,4/30/20,Food and Drink,stop
+NE,Antelope,31003,county,5/11/20,Shelter in Place,stop
+FL,Broward County,12011,county,3/27/20,Shelter in Place,stop
+TX,Duval County,48131,county,6/1/20,Shelter in Place,stop
+TX,Tarrant County,48439,county,4/30/20,Shelter in Place,stop
+CT,,,state,5/20/20,Food and Drink,stop
+MS,Washington,28151,county,7/20/20,Manufacturing,stop
+NC,Guilford County,37081,county,4/16/20,Shelter in Place,stop
+HI,Honolulu,15003,county,10/31/20,Outdoor and Recreation,stop
+TX,Hopkins County,48223,county,4/30/20,Shelter in Place,stop
+TX,Bexar,48029,county,6/4/20,Outdoor and Recreation,stop
+NE,Hitchcock,31087,county,5/11/20,Shelter in Place,stop
+MT,,,state,4/27/20,Non-Essential Businesses,stop
+AK,,,state,4/24/20,Shelter in Place,stop
+NC,Clay County,37043,county,4/24/20,Shelter in Place,stop
+MO,Greene County,29077,county,4/25/20,Shelter in Place,stop
+MS,Madison,28089,county,7/20/20,Childcare (K-12),stop
+KS,Saline County,20169,county,4/29/20,Shelter in Place,stop
+NE,Adams,31001,county,5/11/20,Shelter in Place,stop
+WV,,,state,5/4/20,Food and Drink,stop
+CA,San Benito County,6069,county,5/3/20,Shelter in Place,stop
+MS,DeSoto,28033,county,7/20/20,Day Care,stop
+MS,Quitman,28119,county,7/20/20,Non-Essential Businesses,stop
+NJ,,,state,6/15/20,Food and Drink,stop
+TX,Gray County,48179,county,4/8/20,Shelter in Place,stop
+TX,Harris County,48201,county,4/30/20,Shelter in Place,stop
+MS,Sunflower,28133,county,7/20/20,Food and Drink,stop
+IN,,,state,5/18/20,Non-Essential Businesses,stop
+MS,Hinds,28049,county,7/20/20,Manufacturing,stop
+TX,La Salle County,48283,county,4/30/20,Shelter in Place,stop
+NE,York,31185,county,5/6/20,Shelter in Place,stop
+CA,Santa Clara County,6085,county,5/31/20,Shelter in Place,stop
+GA,Fulton,13121,county,4/30/20,Manufacturing,stop
+PA,Lehigh County,42077,county,4/30/20,Shelter in Place,stop
+CT,,,state,6/17/20,Gyms,stop
+HI,Honolulu,15003,county,10/31/20,Entertainment,stop
+AL,,,state,5/11/20,Food and Drink,stop
+VT,,,state,5/15/20,Shelter in Place,stop
+ME,,,state,5/1/20,Non-Essential Businesses,stop
+TX,Galveston County,48167,county,4/30/20,Shelter in Place,stop
+MS,Harrison,28047,county,7/20/20,Manufacturing,stop
+MO,Jackson,29095,county,5/31/20,Non-Essential Businesses,stop
+MT,,,state,5/4/20,Food and Drink,stop
+KS,,,state,5/4/20,Food and Drink,stop
+KY,,,state,5/20/20,Shelter in Place,stop
+TX,Scurry County,48415,county,4/28/20,Shelter in Place,stop
+MS,Hinds,28049,county,7/20/20,Houses of Worship,stop
+ND,,,state,5/1/20,Food and Drink,stop
+MO,Gasconade County,29073,county,4/16/20,Shelter in Place,stop
+MS,Madison,28089,county,7/20/20,Houses of Worship,stop
+CA,San Mateo County,6081,county,5/31/20,Shelter in Place,stop
+PA,,,state,5/8/20,Shelter in Place,stop
+CA,Yuba County,6115,county,5/3/20,Shelter in Place,stop
+MS,Washington,28151,county,7/20/20,Entertainment,stop
+NE,Furnas,31065,county,5/11/20,Shelter in Place,stop
+SC,,,state,5/18/20,Gyms,stop
+MS,,,state,5/7/20,Food and Drink,stop
+TX,Live Oak County,48297,county,4/30/20,Shelter in Place,stop
+WY,,,state,5/1/20,Gyms,stop
+MS,Harrison,28047,county,7/20/20,Food and Drink,stop
+NC,Orange County,37135,county,4/30/20,Shelter in Place,stop
+KS,Chase County,20017,county,4/27/20,Shelter in Place,stop
+CA,Contra Costa County,6013,county,5/31/20,Shelter in Place,stop
+PA,Montgomery County,42091,county,4/30/20,Shelter in Place,stop
+WI,,,state,5/13/20,Gyms,stop
+NV,,,state,5/15/20,Shelter in Place,stop
+PA,,,state,6/5/20,Food and Drink,stop
+TX,Castro County,48069,county,4/30/20,Shelter in Place,stop
+MS,Sunflower,28133,county,7/20/20,Non-Essential Businesses,stop
+PA,,,state,6/5/20,Non-Essential Businesses,stop
+TX,Stonewall County,48433,county,4/18/20,Shelter in Place,stop
+TX,Liberty County,48291,county,4/30/20,Shelter in Place,stop
+MO,Johnson County,29101,county,4/30/20,Shelter in Place,stop
+OR,,,state,3/24/20,Gyms,start
+SC,,,state,4/1/20,Gyms,start
+UT,Uintah,49047,county,6/19/20,Phase 4,start
+CT,,,state,4/20/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+PA,,,state,3/17/20,Nursing Homes,start
+NC,Guilford County,37081,county,3/27/20,Shelter in Place,start
+ND,,,state,3/20/20,Gyms,start
+VA,,,state,3/16/20,Childcare (K-12),start
+CT,,,state,3/23/20,Shelter in Place,start
+IN,Cass,18017,county,6/1/20,Phase 3,start
+PA,,,state,4/19/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+MS,Washington,28151,county,7/13/20,Houses of Worship,start
+PA,,,state,3/6/20,State of Emergency,start
+HI,Honolulu,15003,county,9/24/20,Outdoor and Recreation,start
+AZ,,,state,5/1/20,Resumed Elective Medical Procedures,start
+TX,Cochran,48079,county,7/3/20,Mask Requirement,start
+OH,,,state,4/29/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+KY,,,state,3/16/20,Order Freezing Utility Shut Offs,start
+ME,,,state,3/25/20,Gyms,start
+UT,,,state,4/10/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+PA,York County,42133,county,3/27/20,Shelter in Place,start
+NH,Belknap,33001,county,6/15/20,Food and Drink,start
+NC,Rutherford County,37161,county,3/28/20,Shelter in Place,start
+ND,Billings,38007,county,9/3/20,Outdoor and Recreation,start
+WA,,,state,2/29/20,State of Emergency,start
+PA,,,state,3/17/20,Food and Drink,start
+MA,,,state,3/13/20,Order Freezing Utility Shut Offs,start
+CA,,,state,6/18/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+DC,,,state,4/3/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+WA,,,state,3/19/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+TX,Leon County,48289,county,3/30/20,Shelter in Place,start
+TX,,,state,3/21/20,Food and Drink,start
+ND,Williams,38105,county,9/3/20,Childcare (K-12),start
+UT,Beaver,49001,county,6/19/20,Phase 4,start
+CO,,,state,3/26/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+CA,Alameda,6001,county,6/8/20,Day Care,start
+VT,,,state,3/13/20,Nursing Homes,start
+MS,,,state,3/24/20,Gyms,start
+MS,Claiborne,28021,county,7/13/20,Entertainment,start
+ND,Nelson,38063,county,9/3/20,Food and Drink,start
+LA,,,state,3/23/20,Allow Audio Only Telehealth,start
+OK,,,state,4/1/20,Non-Essential Businesses,start
+VI,,,state,3/25/20,Shelter in Place,start
+CA,Sacramento County,6067,county,3/19/20,Shelter in Place,start
+TX,Refugio County,48391,county,4/1/20,Shelter in Place,start
+CO,Broomfield County,8014,county,3/26/20,Shelter in Place,start
+NC,,,state,6/26/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+KS,,,state,3/30/20,Entertainment,start
+WV,Monongalia,54061,county,8/12/20,Food and Drink,start
+TX,Hutchinson,48233,county,7/3/20,Mask Requirement,start
+MO,Clark County,29045,county,4/6/20,Shelter in Place,start
+KS,Doniphan County,20043,county,3/26/20,Shelter in Place,start
+ND,McLean,38055,county,9/3/20,Non-Essential Businesses,start
+SC,,,state,3/15/20,Allow Expand Medicaid Telehealth Coverage,start
+PA,,,state,3/28/20,Shelter in Place,start
+CA,,,state,5/5/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+IN,,,state,3/16/20,Suspended Elective Medical Dental Procedures,start
+CA,Marin County,6041,county,3/17/20,Shelter in Place,start
+NY,,,state,3/20/20,Suspended Elective Medical Dental Procedures,start
+RI,,,state,3/13/20,Nursing Homes,start
+MS,Harrison,28047,county,7/13/20,Childcare (K-12),start
+MS,Jackson,28059,county,7/13/20,Non-Essential Businesses,start
+HI,,,state,1899-12-30,Mandate Face Mask Use By All Individuals In Public Spaces,start
+KS,Sedgwick County,20173,county,3/25/20,Shelter in Place,start
+NE,Lancaster,31109,county,9/14/20,Non-Essential Businesses,start
+NE,Wayne,31179,county,4/3/20,Shelter in Place,start
+MO,Pulaski County,29169,county,4/2/20,Shelter in Place,start
+FL,Miami-Dade County,12086,county,3/30/20,Shelter in Place,start
+KS,Geary County,20061,county,3/28/20,Shelter in Place,start
+MS,DeSoto,28033,county,7/13/20,Non-Essential Businesses,start
+AL,,,state,3/19/20,Childcare (K-12),start
+CA,,,state,3/20/20,Reopened ACA Enrollment Using a Special Enrollment Period,start
+KY,,,state,3/18/20,Allow Audio Only Telehealth,start
+MO,Harrison County,29081,county,3/30/20,Shelter in Place,start
+DE,,,state,3/16/20,Food and Drink,start
+ME,,,state,3/20/20,Allow Audio Only Telehealth,start
+IL,,,state,3/23/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+CO,Larimer County,8069,county,3/26/20,Shelter in Place,start
+PA,Beaver,42007,county,6/12/20,Phase 2,start
+FL,Palm Beach,12099,county,5/11/20,Personal Care,start
+NE,Thomas,31171,county,4/1/20,Shelter in Place,start
+OH,,,state,3/15/20,Food and Drink,start
+FL,Leon County,12073,county,3/25/20,Shelter in Place,start
+NE,Perkins,31135,county,4/3/20,Shelter in Place,start
+TX,,,state,3/23/20,Childcare (K-12),start
+MS,Quitman,28119,county,7/13/20,Houses of Worship,start
+AL,,,state,3/16/20,Allow Expand Medicaid Telehealth Coverage,start
+VT,,,state,3/17/20,Food and Drink,start
+DC,,,state,3/12/20,Allow Expand Medicaid Telehealth Coverage,start
+PA,Westmoreland County,42129,county,3/27/20,Shelter in Place,start
+IL,Cook,17031,county,3/21/20,Phase 1,start
+MI,Emmet,26047,county,7/31/20,Entertainment,start
+ME,Cumberland,23005,county,6/17/20,Outdoor and Recreation,start
+WA,,,state,4/17/20,Order Freezing Utility Shut Offs,start
+MO,Bates County,29013,county,3/30/20,Shelter in Place,start
+ND,Griggs,38039,county,9/3/20,Phase 5,start
+MA,,,state,5/18/20,Resumed Elective Medical Procedures,start
+SD,,,state,3/24/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+TX,,,state,3/13/20,State of Emergency,start
+NH,,,state,3/28/20,Non-Essential Businesses,start
+NC,,,state,3/30/20,Non-Essential Businesses,start
+WY,,,state,3/19/20,Food and Drink,start
+TN,,,state,3/23/20,Food and Drink,start
+NV,,,state,4/1/20,Shelter in Place,start
+HI,,,state,4/15/20,Allow Audio Only Telehealth,start
+MO,Jackson,29095,county,5/11/20,Personal Care,start
+ID,,,state,3/25/20,Food and Drink,start
+NE,,,state,5/4/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+MS,Grenada,28043,county,7/13/20,Food and Drink,start
+MN,,,state,7/24/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+TX,Pecos,48371,county,7/3/20,Mask Requirement,start
+ND,Cavalier,38019,county,9/3/20,Childcare (K-12),start
+CA,San Francisco,6075,county,9/30/20,Phase 2,start
+NE,Brown,31017,county,4/1/20,Shelter in Place,start
+DE,,,state,1/1/20,Allow Audio Only Telehealth,start
+NE,Hamilton,31081,county,3/28/20,Shelter in Place,start
+MS,Montgomery,28097,county,7/25/20,Phase 3,start
+WI,,,state,3/25/20,Non-Essential Businesses,start
+AR,,,state,3/20/20,Gyms,start
+VT,,,state,4/17/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+KS,Chase County,20017,county,3/28/20,Shelter in Place,start
+FL,Monroe County,12087,county,3/30/20,Shelter in Place,start
+MS,Holmes,28051,county,7/25/20,Phase 3,start
+UT,Washington,49053,county,7/3/20,Phase 3,start
+LA,,,state,3/18/20,Suspended Elective Medical Dental Procedures,start
+MT,,,state,3/30/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+CO,Denver County,8031,county,3/24/20,Shelter in Place,start
+NE,Dawes,31045,county,3/30/20,Shelter in Place,start
+FL,,,state,3/20/20,Entertainment,start
+UT,,,state,4/1/20,Nursing Homes,start
+NE,Dawson,31047,county,3/31/20,Shelter in Place,start
+RI,,,state,3/14/20,Reopened ACA Enrollment Using a Special Enrollment Period,start
+TX,Coleman,48083,county,7/3/20,Mask Requirement,start
+ND,Traill,38097,county,9/3/20,Outdoor and Recreation,start
+HI,Honolulu,15003,county,9/24/20,Mask Requirement,start
+IN,Elkhart,18039,county,7/16/20,Phase 4,start
+IL,Bond,17005,county,8/18/20,Non-Essential Businesses,start
+NV,,,state,3/21/20,Entertainment,start
+KS,,,state,3/16/20,Order Freezing Utility Shut Offs,start
+KY,,,state,5/11/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+WV,,,state,3/17/20,Allow Expand Medicaid Telehealth Coverage,start
+WV,,,state,3/16/20,Childcare (K-12),start
+MN,,,state,4/16/20,Allow Audio Only Telehealth,start
+MI,Iron,26071,county,7/31/20,Entertainment,start
+CO,Pitkin County,8097,county,3/23/20,Shelter in Place,start
+ND,McIntosh,38051,county,9/3/20,Phase 5,start
+HI,,,state,6/10/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+OR,,,state,3/25/20,Day Care,start
+AZ,,,state,3/25/20,Allow Audio Only Telehealth,start
+TX,Matagorda County,48321,county,4/2/20,Shelter in Place,start
+IL,Clinton,17027,county,8/18/20,Non-Essential Businesses,start
+MS,Sunflower,28133,county,7/13/20,Outdoor and Recreation,start
+CA,Alameda,6001,county,5/18/20,Personal Care,start
+MD,,,state,3/23/20,Non-Essential Businesses,start
+MO,Jefferson County,29099,county,3/24/20,Shelter in Place,start
+OR,Douglas,41019,county,6/5/20,New Phase,start
+ND,LaMoure,38045,county,9/3/20,Food and Drink,start
+ID,,,state,3/13/20,State of Emergency,start
+PA,Forest County,42053,county,3/31/20,Shelter in Place,start
+OH,,,state,3/26/20,Day Care,start
+TN,,,state,3/19/20,Allow Audio Only Telehealth,start
+ND,Wells,38103,county,9/3/20,Outdoor and Recreation,start
+DC,,,state,3/11/20,State of Emergency,start
+GA,Carroll County,13045,county,3/24/20,Shelter in Place,start
+ME,Kennebec,23011,county,5/11/20,Non-Essential Businesses,start
+NE,Keya Paha,31103,county,4/1/20,Shelter in Place,start
+PA,Centre County,42027,county,3/28/20,Shelter in Place,start
+ND,Stark,38089,county,9/3/20,Non-Essential Businesses,start
+NE,Saunders,31155,county,3/25/20,Shelter in Place,start
+TX,Stonewall County,48433,county,3/28/20,Shelter in Place,start
+TX,El Paso County,48141,county,3/24/20,Shelter in Place,start
+VA,,,state,3/25/20,Suspended Elective Medical Dental Procedures,start
+NM,,,state,3/24/20,Shelter in Place,start
+ND,,,state,3/16/20,Childcare (K-12),start
+IN,,,state,3/20/20,Childcare (K-12),start
+PA,Montgomery,42091,county,6/26/20,Phase 2,start
+TN,,,state,3/20/20,Childcare (K-12),start
+MI,Manistee,26101,county,7/31/20,Entertainment,start
+FL,Palm Beach County,12099,county,3/30/20,Shelter in Place,start
+MS,Hinds,28049,county,7/13/20,Manufacturing,start
+PA,Schuylkill,42107,county,6/19/20,Phase 2,start
+MO,St. Louis County,29189,county,3/23/20,Shelter in Place,start
+MS,Madison,28089,county,7/13/20,Food and Drink,start
+CT,,,state,4/10/20,Renter Grace Period Or Use Of Security Deposit To Pay Rent,start
+PR,,,state,3/15/20,Shelter in Place,start
+ME,Oxford,23017,county,5/18/20,Food and Drink,start
+GA,Fulton,13121,county,4/1/20,Entertainment,start
+MI,Chippewa,26033,county,7/31/20,Entertainment,start
+MI,Leelanau,26089,county,7/31/20,Entertainment,start
+MT,,,state,3/12/20,State of Emergency,start
+MS,Yalobusha,28161,county,7/25/20,Phase 3,start
+OH,Hamilton,39061,county,7/23/20,Public Health Advisory System,start
+TX,Bexar,48029,county,5/19/20,Entertainment,start
+OH,Delaware,39041,county,7/17/20,Mask Requirement,start
+MS,,,state,3/19/20,Suspended Elective Medical Dental Procedures,start
+MT,,,state,3/20/20,Food and Drink,start
+ND,Foster,38031,county,9/3/20,Phase 5,start
+FL,Miami-Dade,12086,county,7/3/20,Outdoor and Recreation,start
+ND,Renville,38075,county,9/3/20,Phase 5,start
+PA,Bucks,42017,county,6/26/20,Phase 2,start
+NY,,,state,4/17/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+NE,Richardson,31147,county,4/3/20,Shelter in Place,start
+VT,,,state,3/13/20,State of Emergency,start
+CT,,,state,4/10/20,Stop Initiation Of Evictions Overall Or Due To Covid Related Issues,start
+OH,Butler,39017,county,7/8/20,Mask Requirement,start
+ME,Waldo,23027,county,5/11/20,Non-Essential Businesses,start
+WA,,,state,5/4/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+IL,Washington,17189,county,8/18/20,Entertainment,start
+MA,,,state,3/24/20,Shelter in Place,start
+RI,,,state,3/25/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+PA,,,state,3/18/20,Stop Enforcement Of Evictions Overall Or Due To Covid Related Issues,start
+TN,,,state,3/31/20,Order Freezing Utility Shut Offs,start
+MI,Houghton,26061,county,7/31/20,Outdoor and Recreation,start
+ND,Stark,38089,county,9/3/20,Food and Drink,start
+ME,Kennebec,23011,county,5/18/20,Outdoor and Recreation,start
+KS,,,state,3/24/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+ND,Mercer,38057,county,9/3/20,Phase 5,start
+OH,,,state,3/17/20,Gyms,start
+ME,Somerset,23025,county,5/18/20,Outdoor and Recreation,start
+UT,,,state,3/16/20,Childcare (K-12),start
+WI,,,state,3/17/20,Allow Audio Only Telehealth,start
+ND,Pierce,38069,county,9/3/20,Non-Essential Businesses,start
+MD,,,state,3/16/20,Order Freezing Utility Shut Offs,start
+NY,,,state,3/16/20,Gyms,start
+NE,Howard,31093,county,4/3/20,Shelter in Place,start
+CA,Humboldt County,6023,county,3/20/20,Shelter in Place,start
+CA,Napa County,6055,county,3/20/20,Shelter in Place,start
+ME,York,23031,county,7/8/20,Mask Requirement,start
+ND,Mercer,38057,county,9/3/20,Outdoor and Recreation,start
+HI,,,state,3/4/20,State of Emergency,start
+GA,,,state,4/3/20,Gyms,start
+WV,,,state,4/1/20,Suspended Elective Medical Dental Procedures,start
+ID,Bear Lake,16007,county,6/13/20,Food and Drink,start
+PA,Schuylkill County,42107,county,3/30/20,Shelter in Place,start
+OR,Clackamas,41005,county,5/23/20,Outdoor and Recreation,start
+NE,Madison,31117,county,3/29/20,Shelter in Place,start
+WA,,,state,4/29/20,Resumed Elective Medical Procedures,start
+ME,Waldo,23027,county,5/18/20,Outdoor and Recreation,start
+MS,,,state,4/24/20,Resumed Elective Medical Procedures,start
+FL,Broward,12011,county,5/18/20,Non-Essential Businesses,start
+ND,Griggs,38039,county,9/3/20,Food and Drink,start
+NE,Scotts Bluff,31157,county,3/30/20,Shelter in Place,start
+MS,Washington,28151,county,7/13/20,Manufacturing,start
+MS,Madison,28089,county,7/13/20,Non-Essential Businesses,start
+AZ,,,state,3/30/20,Non-Essential Businesses,start
+TX,Montgomery County,48339,county,3/27/20,Shelter in Place,start
+TX,Denton,48121,county,4/27/20,New Phase,start
+WV,,,state,7/7/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+NY,,,state,4/17/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+LA,,,state,3/17/20,Gyms,start
+TX,Gregg County,48183,county,3/26/20,Shelter in Place,start
+RI,,,state,3/28/20,Shelter in Place,start
+TX,Terrell,48443,county,7/3/20,Mask Requirement,start
+MO,Jackson,29095,county,5/11/20,Non-Essential Businesses,start
+NY,New York,36061,county,6/8/20,Construction,start
+ID,Bear Lake,16007,county,6/13/20,Houses of Worship,start
+CA,San Diego County,6073,county,3/29/20,Shelter in Place,start
+TX,Real,48385,county,7/3/20,Mask Requirement,start
+OK,,,state,3/17/20,Childcare (K-12),start
+TX,Schleicher,48413,county,7/3/20,Mask Requirement,start
+ND,Pierce,38069,county,9/3/20,Outdoor and Recreation,start
+MS,,,state,3/24/20,Entertainment,start
+ND,,,state,4/28/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+TX,Williamson County,48491,county,3/24/20,Shelter in Place,start
+CA,Mendocino County,6045,county,3/18/20,Shelter in Place,start
+TX,Jasper County,48241,county,3/28/20,Shelter in Place,start
+TX,Bexar,48029,county,5/19/20,Shelter in Place,start
+PA,,,state,4/27/20,Resumed Elective Medical Procedures,start
+MS,Harrison,28047,county,7/13/20,Houses of Worship,start
+TX,Upton,48461,county,7/3/20,Mask Requirement,start
+IL,,,state,3/21/20,Gyms,start
+OH,Scioto,39145,county,7/23/20,Public Health Advisory System,start
+MS,DeSoto,28033,county,7/13/20,Day Care,start
+MI,Ontonagon,26131,county,7/31/20,Outdoor and Recreation,start
+NE,Keith,31101,county,4/3/20,Shelter in Place,start
+NH,,,state,3/17/20,Allow Expand Medicaid Telehealth Coverage,start
+MO,Jackson,29095,county,5/11/20,Non-Essential Businesses,start
+MO,,,state,4/6/20,Nursing Homes,start
+ND,Walsh,38099,county,9/3/20,Outdoor and Recreation,start
+CO,,,state,3/20/20,Reopened ACA Enrollment Using a Special Enrollment Period,start
+TX,Glasscock,48173,county,7/3/20,Mask Requirement,start
+ID,Bear Lake,16007,county,6/13/20,Mask Requirement,start
+OH,,,state,3/9/20,State of Emergency,start
+FL,St. Lucie County,12111,county,4/4/20,Shelter in Place,start
+PA,Somerset County,42111,county,3/31/20,Shelter in Place,start
+NY,Queens,36081,county,7/6/20,Phase 3,start
+MS,Rankin,28121,county,7/13/20,Manufacturing,start
+CA,Contra Costa County,6013,county,3/17/20,Shelter in Place,start
+ID,Ada,16001,county,6/24/20,Phase 3,start
+ND,Divide,38023,county,9/3/20,Outdoor and Recreation,start
+CA,,,state,3/17/20,Order Freezing Utility Shut Offs,start
+NE,Pierce,31139,county,4/1/20,Shelter in Place,start
+MS,Wayne,28153,county,7/13/20,Outdoor and Recreation,start
+GA,Bartow County,13015,county,3/27/20,Shelter in Place,start
+IL,Randolph,17157,county,8/18/20,Entertainment,start
+MS,Rankin,28121,county,7/13/20,Outdoor and Recreation,start
+TX,Polk County,48373,county,3/27/20,Shelter in Place,start
+TX,Goliad,48175,county,7/3/20,Mask Requirement,start
+CA,,,state,3/18/20,Allow Expand Medicaid Telehealth Coverage,start
+MI,Chippewa,26033,county,7/31/20,Outdoor and Recreation,start
+MI,Dickinson,26043,county,7/31/20,Outdoor and Recreation,start
+NY,,,state,3/18/20,Childcare (K-12),start
+AK,,,state,3/18/20,Gyms,start
+MS,,,state,4/3/20,Non-Essential Businesses,start
+MA,,,state,4/20/20,Stop Enforcement Of Evictions Overall Or Due To Covid Related Issues,start
+DC,,,state,3/17/20,Entertainment,start
+PA,,,state,3/13/20,Order Freezing Utility Shut Offs,start
+NH,Carroll,33003,county,6/15/20,Food and Drink,start
+NE,Lancaster,31109,county,9/14/20,Houses of Worship,start
+ND,Nelson,38063,county,9/3/20,Phase 5,start
+IN,,,state,5/1/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+ND,,,state,3/20/20,Non-Essential Businesses,start
+MI,Emmet,26047,county,7/31/20,Outdoor and Recreation,start
+KS,McPherson County,20113,county,3/27/20,Shelter in Place,start
+IL,Cook,17031,county,3/21/20,Outdoor and Recreation,start
+NY,Bronx,36005,county,6/8/20,New Phase,start
+OR,,,state,3/16/20,Childcare (K-12),start
+OH,,,state,3/23/20,Shelter in Place,start
+ME,Sagadahoc,23023,county,5/11/20,Non-Essential Businesses,start
+GA,Cobb County,13067,county,3/25/20,Shelter in Place,start
+OR,Baker,41001,county,6/6/20,Houses of Worship,start
+IL,Monroe,17133,county,8/18/20,Non-Essential Businesses,start
+NV,,,state,3/17/20,Allow Audio Only Telehealth,start
+HI,Honolulu,15003,county,9/24/20,Entertainment,start
+NE,Red Willow,31145,county,4/3/20,Shelter in Place,start
+VT,,,state,3/23/20,Gyms,start
+OH,Hamilton,39061,county,7/8/20,Mask Requirement,start
+CO,,,state,7/16/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+TX,Sabine County,48403,county,3/31/20,Shelter in Place,start
+TX,Navarro County,48349,county,3/25/20,Shelter in Place,start
+NY,,,state,3/22/20,Shelter in Place,start
+VA,,,state,6/8/20,Stop Enforcement Of Evictions Overall Or Due To Covid Related Issues,start
+NC,,,state,3/30/20,Shelter in Place,start
+NE,Deuel,31049,county,3/30/20,Shelter in Place,start
+WY,,,state,3/19/20,Non-Essential Businesses,start
+NE,Dodge,31053,county,3/25/20,Shelter in Place,start
+NY,New York,36061,county,6/8/20,Agriculture,start
+NY,,,state,3/16/20,Reopened ACA Enrollment Using a Special Enrollment Period,start
+FL,Alachua County,12001,county,3/24/20,Shelter in Place,start
+PA,Wayne County,42127,county,3/27/20,Shelter in Place,start
+NH,Grafton,33009,county,6/15/20,Food and Drink,start
+MA,,,state,3/16/20,Allow Audio Only Telehealth,start
+MS,Rankin,28121,county,7/13/20,Food and Drink,start
+MI,Antrim,26009,county,7/31/20,Entertainment,start
+MS,,,state,4/10/20,Allow Expand Medicaid Telehealth Coverage,start
+TX,Jim Wells County,48249,county,3/27/20,Shelter in Place,start
+TX,Knox,48275,county,7/3/20,Mask Requirement,start
+ND,Walsh,38099,county,9/3/20,Phase 5,start
+ND,,,state,3/20/20,Food and Drink,start
+OH,Wood,39173,county,7/10/20,Mask Requirement,start
+NH,,,state,5/1/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+MS,DeSoto,28033,county,7/13/20,Food and Drink,start
+MS,Jackson,28059,county,7/13/20,Entertainment,start
+MI,Grand Traverse,26055,county,7/31/20,Outdoor and Recreation,start
+MI,Benzie,26019,county,7/31/20,Outdoor and Recreation,start
+TX,San Augustine County,48405,county,4/30/20,Shelter in Place,stop
+TX,Madison County,48313,county,4/12/20,Shelter in Place,stop
+TX,Lampasas County,48281,county,4/21/20,Shelter in Place,stop
+TX,,,state,5/1/20,Non-Essential Businesses,stop
+GA,Dougherty County,13095,county,4/7/20,Shelter in Place,stop
+TX,Bexar,48029,county,6/4/20,Non-Essential Businesses,stop
+IL,,,state,5/29/20,Non-Essential Businesses,stop
+MO,Vernon County,29217,county,5/1/20,Shelter in Place,stop
+IN,Cass,18017,county,5/13/20,Phase 3,stop
+MS,Jackson,28059,county,7/20/20,Outdoor and Recreation,stop
+NE,Lancaster,31109,county,10/31/20,Childcare (K-12),stop
+DE,,,state,5/8/20,Non-Essential Businesses,stop
+MO,,,state,5/3/20,Shelter in Place,stop
+MO,Ray County,29177,county,4/24/20,Shelter in Place,stop
+GA,Lowndes County,13185,county,4/6/20,Shelter in Place,stop
+TX,Nueces County,48355,county,4/30/20,Shelter in Place,stop
+MS,Sunflower,28133,county,7/20/20,Houses of Worship,stop
+CA,Colusa County,6011,county,5/8/20,Shelter in Place,stop
+NE,Dixon,31051,county,5/11/20,Shelter in Place,stop
+NY,Cattaraugus,36009,county,6/30/20,Food and Drink,stop
+CO,,,state,4/26/20,Shelter in Place,stop
+MS,Grenada,28043,county,7/20/20,Manufacturing,stop
+MS,Madison,28089,county,7/20/20,Food and Drink,stop
+TN,,,state,4/27/20,Food and Drink,stop
+IA,Black Hawk,19013,county,9/20/20,Food and Drink,stop
+TX,Trinity County,48455,county,4/30/20,Shelter in Place,stop
+ND,,,state,5/1/20,Gyms,stop
+VI,,,state,4/30/20,Shelter in Place,stop
+PA,Allegheny County,42003,county,4/30/20,Shelter in Place,stop
+VA,,,state,5/29/20,Food and Drink,stop
+ID,,,state,5/16/20,Food and Drink,stop
+AR,,,state,5/11/20,Food and Drink,stop
+AL,,,state,4/30/20,Shelter in Place,stop
+ME,York,23031,county,6/1/20,Food and Drink,start
+ND,Renville,38075,county,9/3/20,Childcare (K-12),start
+IL,Monroe,17133,county,8/18/20,Entertainment,start
+LA,,,state,3/17/20,Food and Drink,start
+OH,Henry,39069,county,7/23/20,Public Health Advisory System,start
+TX,Scurry County,48415,county,3/27/20,Shelter in Place,start
+PA,Perry,42099,county,6/19/20,Phase 2,start
+MI,Kalkaska,26079,county,7/31/20,Outdoor and Recreation,start
+AZ,,,state,3/11/20,State of Emergency,start
+NE,,,state,4/3/20,Suspended Elective Medical Dental Procedures,start
+SD,,,state,4/15/20,Allow Audio Only Telehealth,start
+PA,Lehigh,42077,county,6/26/20,Phase 2,start
+NY,Richmond,36085,county,6/8/20,Wholesale Trade,start
+NE,Cedar,31027,county,4/3/20,Shelter in Place,start
+PA,Butler County,42019,county,3/27/20,Shelter in Place,start
+OH,Lawrence,39087,county,7/23/20,Public Health Advisory System,start
+OK,,,state,3/24/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+AR,,,state,3/19/20,Food and Drink,start
+TX,Tarrant County,48439,county,3/24/20,Shelter in Place,start
+NY,Kings,36047,county,7/6/20,Phase 3,start
+WY,,,state,3/13/20,State of Emergency,start
+MN,,,state,3/28/20,Allow Expand Medicaid Telehealth Coverage,start
+ND,Griggs,38039,county,9/3/20,Non-Essential Businesses,start
+DC,,,state,4/6/20,Reopened ACA Enrollment Using a Special Enrollment Period,start
+CO,,,state,4/23/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+ND,,,state,3/24/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+MO,St. Louis city,29510,county,3/23/20,Shelter in Place,start
+NE,,,state,3/23/20,Allow Audio Only Telehealth,start
+NE,York,31185,county,3/28/20,Shelter in Place,start
+NH,,,state,3/27/20,Gyms,start
+NY,New York,36061,county,6/8/20,Manufacturing,start
+AR,,,state,4/27/20,Resumed Elective Medical Procedures,start
+MS,,,state,4/1/20,Stop Enforcement Of Evictions Overall Or Due To Covid Related Issues,start
+FL,Broward,12011,county,7/3/20,Outdoor and Recreation,start
+UT,Kane,49025,county,6/12/20,Phase 4,start
+VA,,,state,3/19/20,Allow Audio Only Telehealth,start
+AK,,,state,3/28/20,Shelter in Place,start
+FL,Miami-Dade,12086,county,7/9/20,Mask Requirement,start
+FL,Palm Beach,12099,county,7/3/20,Outdoor and Recreation,start
+ND,Traill,38097,county,9/3/20,Food and Drink,start
+NE,,,state,5/4/20,Resumed Elective Medical Procedures,start
+AL,,,state,3/23/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+NE,Gosper,31073,county,3/31/20,Shelter in Place,start
+NE,Cherry,31031,county,4/1/20,Shelter in Place,start
+TX,Hale County,48189,county,3/31/20,Shelter in Place,start
+ND,McIntosh,38051,county,9/3/20,Childcare (K-12),start
+PA,Delaware,42045,county,6/26/20,Phase 2,start
+TX,Briscoe County,48045,county,4/7/20,Shelter in Place,start
+ND,Divide,38023,county,9/3/20,Non-Essential Businesses,start
+MN,,,state,5/10/20,Resumed Elective Medical Procedures,start
+IN,,,state,3/25/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+MO,Jackson,29095,county,5/11/20,Entertainment,start
+MO,Jackson,29095,county,6/1/20,Phase 2,start
+ND,Renville,38075,county,9/3/20,Non-Essential Businesses,start
+ND,Divide,38023,county,9/3/20,Phase 5,start
+MI,Roscommon,26143,county,7/31/20,Entertainment,start
+HI,,,state,3/30/20,Allow Expand Medicaid Telehealth Coverage,start
+TX,Hockley County,48219,county,3/31/20,Shelter in Place,start
+NY,Allegany,36003,county,6/16/20,Non-Essential Businesses,start
+MS,Madison,28089,county,7/13/20,Outdoor and Recreation,start
+AL,,,state,3/19/20,Suspended Elective Medical Dental Procedures,start
+IL,Washington,17189,county,8/18/20,Non-Essential Businesses,start
+ND,Traill,38097,county,9/3/20,Childcare (K-12),start
+ID,,,state,3/26/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+NE,,,state,3/13/20,State of Emergency,start
+TX,Terry County,48445,county,4/3/20,Shelter in Place,start
+GA,Fulton,13121,county,4/1/20,Non-Essential Businesses,start
+NE,Dundy,31057,county,4/3/20,Shelter in Place,start
+ND,McIntosh,38051,county,9/3/20,Food and Drink,start
+MS,Sunflower,28133,county,7/13/20,Day Care,start
+MS,Sunflower,28133,county,7/13/20,Entertainment,start
+OR,,,state,3/22/20,Stop Enforcement Of Evictions Overall Or Due To Covid Related Issues,start
+CT,,,state,3/19/20,Reopened ACA Enrollment Using a Special Enrollment Period,start
+AK,,,state,3/19/20,Suspended Elective Medical Dental Procedures,start
+PA,Lancaster County,42071,county,3/27/20,Shelter in Place,start
+ID,Bear Lake,16007,county,6/13/20,Day Care,start
+TX,,,state,3/30/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+CT,,,state,3/16/20,Food and Drink,start
+HI,,,state,4/26/20,Resumed Elective Medical Procedures,start
+MS,Grenada,28043,county,7/13/20,Manufacturing,start
+OH,Scioto,39145,county,7/17/20,Mask Requirement,start
+OR,Benton,41003,county,6/5/20,Houses of Worship,start
+LA,,,state,5/1/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+FL,,,state,3/9/20,State of Emergency,start
+ND,McLean,38055,county,9/3/20,Food and Drink,start
+NH,,,state,3/18/20,Allow Audio Only Telehealth,start
+ID,,,state,4/6/20,Allow Audio Only Telehealth,start
+VT,,,state,3/30/20,Allow Expand Medicaid Telehealth Coverage,start
+CO,,,state,4/30/20,Stop Enforcement Of Evictions Overall Or Due To Covid Related Issues,start
+TX,Limestone County,48293,county,4/2/20,Shelter in Place,start
+NC,Buncombe County,37021,county,3/27/20,Shelter in Place,start
+NM,,,state,3/24/20,Stop Enforcement Of Evictions Overall Or Due To Covid Related Issues,start
+MI,Otsego,26137,county,7/31/20,Outdoor and Recreation,start
+AL,,,state,7/16/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+ND,Barnes,38003,county,9/3/20,Outdoor and Recreation,start
+ME,,,state,3/15/20,State of Emergency,start
+ID,,,state,3/25/20,Gyms,start
+MO,Jackson,29095,county,5/11/20,New Phase,start
+ND,,,state,3/20/20,Entertainment,start
+MS,Claiborne,28021,county,7/13/20,Manufacturing,start
+MS,Sunflower,28133,county,7/13/20,Manufacturing,start
+CO,,,state,3/12/20,Nursing Homes,start
+TX,Lampasas County,48281,county,4/1/20,Shelter in Place,start
+ME,Knox,23013,county,5/18/20,Food and Drink,start
+TX,Calhoun County,48057,county,4/3/20,Shelter in Place,start
+TX,Harrison County,48203,county,3/31/20,Shelter in Place,start
+FL,Miami-Dade,12086,county,7/3/20,Entertainment,start
+ND,LaMoure,38045,county,9/3/20,Outdoor and Recreation,start
+ME,Franklin,23007,county,5/18/20,Outdoor and Recreation,start
+GA,,,state,4/3/20,Shelter in Place,start
+UT,,,state,5/1/20,Entertainment,start
+OK,,,state,4/24/20,Resumed Elective Medical Procedures,start
+ND,Morton,38059,county,9/3/20,Food and Drink,start
+TN,,,state,4/1/20,Non-Essential Businesses,start
+MS,,,state,3/24/20,Nursing Homes,start
+TN,Knox County,47093,county,3/24/20,Shelter in Place,start
+MS,Grenada,28043,county,7/13/20,Childcare (K-12),start
+MS,Hinds,28049,county,7/13/20,Entertainment,start
+ND,Pembina,38067,county,9/3/20,Phase 5,start
+OR,Lane,41039,county,5/15/20,New Phase,start
+ME,,,state,3/25/20,Entertainment,start
+TX,Wilbarger,48487,county,7/3/20,Mask Requirement,start
+TX,Oldham,48359,county,7/3/20,Mask Requirement,start
+DE,,,state,3/24/20,Non-Essential Businesses,start
+IA,,,state,4/2/20,Shelter in Place,start
+CT,,,state,3/16/20,Gyms,start
+MI,,,state,3/16/20,Gyms,start
+IN,,,state,3/30/20,Allow Audio Only Telehealth,start
+CO,Denver,8031,county,6/6/20,Outdoor and Recreation,start
+NV,,,state,3/12/20,State of Emergency,start
+OH,Montgomery,39113,county,7/16/20,Mask Requirement,start
+CA,El Dorado County,6017,county,3/20/20,Shelter in Place,start
+ME,Washington,23029,county,5/11/20,Non-Essential Businesses,start
+MI,Grand Traverse,26055,county,7/31/20,Entertainment,start
+ND,Grand Forks,38035,county,9/3/20,Phase 3,start
+MS,Hinds,28049,county,7/13/20,Childcare (K-12),start
+LA,,,state,3/13/20,Allow Expand Medicaid Telehealth Coverage,start
+ND,Rolette,38079,county,9/3/20,Childcare (K-12),start
+UT,,,state,4/1/20,Stop Enforcement Of Evictions Overall Or Due To Covid Related Issues,start
+MI,Crawford,26039,county,7/31/20,Entertainment,start
+MI,Otsego,26137,county,7/31/20,Entertainment,start
+DE,,,state,3/24/20,Stop Initiation Of Evictions Overall Or Due To Covid Related Issues,start
+CO,,,state,3/17/20,Entertainment,start
+IA,,,state,3/27/20,Suspended Elective Medical Dental Procedures,start
+CA,,,state,3/30/20,Allow Audio Only Telehealth,start
+AZ,,,state,3/20/20,Gyms,start
+ND,Foster,38031,county,9/3/20,Outdoor and Recreation,start
+NM,,,state,5/6/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+NE,,,state,3/17/20,Allow Expand Medicaid Telehealth Coverage,start
+GA,Gwinnett County,13135,county,3/28/20,Shelter in Place,start
+TX,Bexar,48029,county,5/19/20,Food and Drink,start
+NE,Cheyenne,31033,county,3/30/20,Shelter in Place,start
+TX,Jones County,48253,county,4/6/20,Shelter in Place,start
+MN,,,state,3/16/20,Nursing Homes,start
+FL,,,state,4/3/20,Shelter in Place,start
+MS,Rankin,28121,county,7/13/20,Day Care,start
+AK,,,state,4/24/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+ND,Rolette,38079,county,9/3/20,Phase 5,start
+IL,Bond,17005,county,8/18/20,Food and Drink,start
+SC,,,state,3/18/20,Food and Drink,start
+MT,,,state,3/20/20,Allow Audio Only Telehealth,start
+TX,Hood County,48221,county,3/25/20,Shelter in Place,start
+MS,Claiborne,28021,county,7/13/20,Non-Essential Businesses,start
+OK,,,state,3/24/20,Shelter in Place,start
+CA,,,state,3/19/20,Food and Drink,start
+MS,Sunflower,28133,county,7/13/20,Childcare (K-12),start
+MI,Kalkaska,26079,county,7/31/20,Entertainment,start
+SC,,,state,4/7/20,Shelter in Place,start
+WA,,,state,3/16/20,Nursing Homes,start
+OR,Lane,41039,county,5/15/20,Outdoor and Recreation,start
+IN,,,state,3/6/20,State of Emergency,start
+NE,Chase,31029,county,4/3/20,Shelter in Place,start
+KS,Wyandotte County,20209,county,3/24/20,Shelter in Place,start
+OH,Pickaway,39129,county,7/10/20,Mask Requirement,start
+DC,,,state,4/15/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+KY,,,state,3/18/20,Allow Expand Medicaid Telehealth Coverage,start
+IN,,,state,3/30/20,Allow Expand Medicaid Telehealth Coverage,start
+NH,Cheshire,33005,county,6/15/20,Food and Drink,start
+TX,Hansford,48195,county,7/3/20,Mask Requirement,start
+WA,,,state,3/10/20,Reopened ACA Enrollment Using a Special Enrollment Period,start
+WI,,,state,3/12/20,State of Emergency,start
+ND,Walsh,38099,county,9/3/20,Non-Essential Businesses,start
+WY,,,state,5/1/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+WV,,,state,4/20/20,Resumed Elective Medical Procedures,start
+VA,,,state,3/16/20,Order Freezing Utility Shut Offs,start
+TX,Ellis County,48139,county,3/25/20,Shelter in Place,start
+NJ,,,state,3/16/20,Gyms,start
+MI,Cheboygan,26031,county,7/31/20,Outdoor and Recreation,start
+AK,,,state,3/28/20,Non-Essential Businesses,start
+KS,,,state,3/30/20,Food and Drink,start
+CA,Imperial County,6025,county,4/1/20,Shelter in Place,start
+WI,,,state,3/17/20,Food and Drink,start
+IA,,,state,3/9/20,State of Emergency,start
+OH,Licking,39089,county,7/23/20,Public Health Advisory System,start
+MI,Crawford,26039,county,7/31/20,Outdoor and Recreation,start
+IL,,,state,4/23/20,Stop Initiation Of Evictions Overall Or Due To Covid Related Issues,start
+MO,Boone County,29019,county,3/25/20,Shelter in Place,start
+UT,Salt Lake,49035,county,7/17/20,Phase 2,start
+OR,Benton,41003,county,6/5/20,Food and Drink,start
+NC,Durham County,37063,county,3/29/20,Shelter in Place,start
+MI,,,state,4/6/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+PA,Pike County,42103,county,3/27/20,Shelter in Place,start
+ND,Pembina,38067,county,9/3/20,Outdoor and Recreation,start
+MS,Jackson,28059,county,7/13/20,Houses of Worship,start
+NM,,,state,3/20/20,Allow Expand Medicaid Telehealth Coverage,start
+DE,,,state,3/24/20,Shelter in Place,start
+HI,Honolulu,15003,county,9/24/20,Non-Essential Businesses,start
+IN,Marion,18097,county,6/1/20,Phase 3,start
+NE,Hayes,31085,county,4/3/20,Shelter in Place,start
+DC,,,state,3/17/20,Gyms,start
+GA,Fulton,13121,county,4/1/20,Outdoor and Recreation,start
+MS,DeSoto,28033,county,7/13/20,Childcare (K-12),start
+TX,Shelby County,48419,county,3/30/20,Shelter in Place,start
+TX,Erath County,48143,county,3/25/20,Shelter in Place,start
+OH,Wood,39173,county,7/23/20,Public Health Advisory System,start
+ND,Benson,38005,county,9/3/20,Phase 3,start
+AK,,,state,4/10/20,Stop Initiation Of Evictions Overall Or Due To Covid Related Issues,start
+FL,Palm Beach,12099,county,7/3/20,Food and Drink,start
+KY,,,state,3/16/20,Food and Drink,start
+DC,,,state,3/17/20,Stop Enforcement Of Evictions Overall Or Due To Covid Related Issues,start
+TX,,,state,4/21/20,Resumed Elective Medical Procedures,start
+KS,Reno County,20155,county,3/30/20,Shelter in Place,start
+MO,Gasconade County,29073,county,3/31/20,Shelter in Place,start
+MO,,,state,4/3/20,Entertainment,start
+TX,Kleberg County,48273,county,3/27/20,Shelter in Place,start
+OH,Lucas,39095,county,7/23/20,Public Health Advisory System,start
+NC,,,state,5/30/20,Stop Initiation Of Evictions Overall Or Due To Covid Related Issues,start
+WY,,,state,3/27/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+TX,Blanco County,48031,county,4/6/20,Shelter in Place,start
+PA,Cumberland,42041,county,6/12/20,Phase 2,start
+MS,Claiborne,28021,county,7/13/20,Houses of Worship,start
+NY,,,state,3/16/20,Food and Drink,start
+ME,,,state,5/1/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+NE,Hitchcock,31087,county,4/3/20,Shelter in Place,start
+MS,Jackson,28059,county,7/13/20,Outdoor and Recreation,start
+KS,Miami County,20121,county,3/25/20,Shelter in Place,start
+IN,Marion,18097,county,6/1/20,Phase 3,start
+RI,,,state,3/16/20,Childcare (K-12),start
+VT,,,state,5/14/20,Stop Enforcement Of Evictions Overall Or Due To Covid Related Issues,start
+AK,,,state,3/18/20,Food and Drink,start
+MI,Cheboygan,26031,county,7/31/20,Entertainment,start
+WY,,,state,3/19/20,Gyms,start
+ND,Williams,38105,county,9/3/20,Non-Essential Businesses,start
+NY,,,state,3/21/20,Froze Mortgage Payments,start
+WV,,,state,3/30/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+TN,,,state,5/1/20,Resumed Elective Medical Procedures,start
+NV,,,state,5/9/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+MT,,,state,3/28/20,Shelter in Place,start
+PA,Beaver County,42007,county,3/28/20,Shelter in Place,start
+OH,,,state,3/9/20,Allow Expand Medicaid Telehealth Coverage,start
+CT,,,state,3/9/20,Nursing Homes,start
+CT,,,state,3/17/20,Childcare (K-12),start
+UT,Wasatch County,49051,county,4/1/20,Shelter in Place,start
+NM,,,state,3/19/20,Gyms,start
+MD,,,state,3/30/20,Shelter in Place,start
+NJ,,,state,3/9/20,State of Emergency,start
+MO,Linn County,29115,county,4/3/20,Shelter in Place,start
+NY,Cattaraugus,36009,county,6/16/20,Non-Essential Businesses,start
+NV,,,state,3/21/20,Gyms,start
+CA,Santa Cruz County,6087,county,3/17/20,Shelter in Place,start
+IL,Cook,17031,county,3/21/20,Food and Drink,start
+UT,Garfield,49017,county,6/19/20,Phase 4,start
+FL,,,state,4/2/20,Stop Enforcement Of Evictions Overall Or Due To Covid Related Issues,start
+NE,,,state,4/3/20,Food and Drink,start
+PA,,,state,3/15/20,Allow Audio Only Telehealth,start
+NE,Johnson,31097,county,4/3/20,Shelter in Place,start
+VT,,,state,3/30/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+SC,,,state,3/19/20,Allow Audio Only Telehealth,start
+MT,,,state,3/16/20,Childcare (K-12),start
+GA,Clayton County,13063,county,4/1/20,Shelter in Place,start
+CA,Alameda,6001,county,5/18/20,Food and Drink,start
+IL,Randolph,17157,county,8/18/20,Non-Essential Businesses,start
+NE,Morrill,31123,county,3/30/20,Shelter in Place,start
+IL,,,state,3/21/20,Non-Essential Businesses,start
+FL,Broward County,12011,county,3/27/20,Shelter in Place,start
+ID,,,state,3/25/20,Shelter in Place,start
+OK,,,state,3/24/20,Suspended Elective Medical Dental Procedures,start
+MS,Madison,28089,county,7/13/20,Childcare (K-12),start
+AZ,,,state,3/31/20,Shelter in Place,start
+ND,Grand Forks,38035,county,9/3/20,Outdoor and Recreation,start
+FL,,,state,4/2/20,Stop Initiation Of Evictions Overall Or Due To Covid Related Issues,start
+AR,,,state,4/2/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+NC,Forsyth County,37067,county,3/27/20,Shelter in Place,start
+MS,Claiborne,28021,county,7/13/20,Food and Drink,start
+WA,,,state,3/18/20,Stop Enforcement Of Evictions Overall Or Due To Covid Related Issues,start
+ME,Lincoln,23015,county,5/18/20,Outdoor and Recreation,start
+MA,,,state,3/11/20,Reopened ACA Enrollment Using a Special Enrollment Period,start
+AL,,,state,4/3/20,Stop Enforcement Of Evictions Overall Or Due To Covid Related Issues,start
+GA,Fulton,13121,county,4/1/20,Manufacturing,start
+ID,Bear Lake,16007,county,6/13/20,Entertainment,start
+MO,,,state,3/23/20,Allow Expand Medicaid Telehealth Coverage,start
+ME,Waldo,23027,county,5/18/20,Food and Drink,start
+TX,,,state,7/3/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+OK,,,state,4/1/20,Entertainment,start
+TX,Fort Bend County,48157,county,3/25/20,Shelter in Place,start
+ME,Washington,23029,county,5/18/20,Outdoor and Recreation,start
+TX,McCulloch,48307,county,7/3/20,Mask Requirement,start
+NY,,,state,6/8/20,Resumed Elective Medical Procedures,start
+OH,Butler,39017,county,7/23/20,Public Health Advisory System,start
+TX,Duval County,48131,county,3/27/20,Shelter in Place,start
+CA,Riverside County,6065,county,4/4/20,Shelter in Place,start
+CA,Alameda,6001,county,5/29/20,Shelter in Place,start
+CA,Calaveras County,6009,county,3/27/20,Shelter in Place,start
+ND,Morton,38059,county,9/3/20,Non-Essential Businesses,start
+MS,Claiborne,28021,county,7/13/20,Day Care,start
+PA,Susquehanna,42115,county,6/26/20,Phase 2,start
+IL,Hancock,17067,county,8/18/20,Non-Essential Businesses,start
+ID,Bear Lake,16007,county,6/13/20,Outdoor and Recreation,start
+TX,Gray,48179,county,7/3/20,Mask Requirement,start
+NC,,,state,3/25/20,Gyms,start
+NC,Clay County,37043,county,3/24/20,Shelter in Place,start
+PA,,,state,7/1/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+ND,Grand Forks,38035,county,9/3/20,Childcare (K-12),start
+DC,,,state,3/11/20,Order Freezing Utility Shut Offs,start
+GA,,,state,4/27/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+TX,Jeff Davis County,48243,county,3/31/20,Shelter in Place,start
+PA,Lackawanna County,42069,county,3/27/20,Shelter in Place,start
+TX,Hays County,48209,county,3/26/20,Shelter in Place,start
+ND,Benson,38005,county,9/3/20,Outdoor and Recreation,start
+NJ,,,state,3/18/20,Day Care,start
+IL,,,state,5/1/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+WA,Yakima County,53077,county,3/22/20,Shelter in Place,start
+KS,,,state,3/30/20,Shelter in Place,start
+MI,Ontonagon,26131,county,7/31/20,Entertainment,start
+UT,,,state,3/19/20,Food and Drink,start
+FL,Hillsborough County,12057,county,3/27/20,Shelter in Place,start
+AR,,,state,3/13/20,Allow Expand Medicaid Telehealth Coverage,start
+IL,Cook,17031,county,3/21/20,Childcare (K-12),start
+MS,Quitman,28119,county,7/13/20,Outdoor and Recreation,start
+TX,Armstrong County,48011,county,4/7/20,Shelter in Place,start
+TX,Clay,48077,county,7/3/20,Mask Requirement,start
+NY,Queens,36081,county,6/8/20,Construction,start
+GA,Fulton,13121,county,4/1/20,Food and Drink,start
+NH,,,state,3/13/20,State of Emergency,start
+PA,Franklin County,42055,county,3/31/20,Shelter in Place,start
+MS,Quitman,28119,county,7/13/20,Childcare (K-12),start
+OH,Hardin,39065,county,7/23/20,Public Health Advisory System,start
+PA,,,state,3/19/20,Non-Essential Businesses,start
+WV,,,state,3/24/20,Shelter in Place,start
+FL,Osceola County,12097,county,3/26/20,Shelter in Place,start
+MS,Wayne,28153,county,7/13/20,Manufacturing,start
+NE,Holt,31089,county,4/1/20,Shelter in Place,start
+TX,Deaf Smith County,48117,county,3/31/20,Shelter in Place,start
+TN,Shelby County,47157,county,3/24/20,Shelter in Place,start
+CO,Denver,8031,county,6/17/20,Non-Essential Businesses,start
+MD,,,state,4/5/20,Nursing Homes,start
+TX,Crosby,48107,county,7/3/20,Mask Requirement,start
+VT,,,state,3/20/20,Suspended Elective Medical Dental Procedures,start
+MS,Sunflower,28133,county,7/13/20,Houses of Worship,start
+CO,,,state,3/26/20,Non-Essential Businesses,start
+NJ,,,state,3/19/20,Stop Enforcement Of Evictions Overall Or Due To Covid Related Issues,start
+PA,Berks County,42011,county,3/27/20,Shelter in Place,start
+CO,Adams County,8001,county,3/26/20,Shelter in Place,start
+GA,Fulton,13121,county,4/30/20,Childcare (K-12),stop
+MO,Jackson,29095,county,5/31/20,Entertainment,stop
+MS,Quitman,28119,county,7/20/20,Entertainment,stop
+IN,Lake,18089,county,6/13/20,Phase 3,stop
+MS,Washington,28151,county,7/20/20,Non-Essential Businesses,stop
+TX,Zapata County,48505,county,5/11/20,Shelter in Place,stop
+TX,Brown County,48049,county,4/3/20,Shelter in Place,stop
+FL,Leon County,12073,county,4/19/20,Shelter in Place,stop
+PA,,,state,7/3/20,Gyms,stop
+MS,Hinds,28049,county,7/20/20,Day Care,stop
+MS,Sunflower,28133,county,7/20/20,Day Care,stop
+MS,Jackson,28059,county,7/20/20,Day Care,stop
+TX,San Patricio County,48409,county,5/4/20,Shelter in Place,stop
+CA,Yolo County,6113,county,5/1/20,Shelter in Place,stop
+MS,Rankin,28121,county,7/20/20,Childcare (K-12),stop
+MA,,,state,5/18/20,Shelter in Place,stop
+MO,Stoddard County,29207,county,4/24/20,Shelter in Place,stop
+TX,Aransas County,48007,county,4/30/20,Shelter in Place,stop
+ND,,,state,5/1/20,Non-Essential Businesses,stop
+MA,,,state,6/8/20,Food and Drink,stop
+NY,Allegany,36003,county,6/30/20,Phase 3,stop
+MS,Claiborne,28021,county,7/20/20,Non-Essential Businesses,stop
+NE,Thomas,31171,county,5/11/20,Shelter in Place,stop
+IN,Elkhart,18039,county,7/31/20,Phase 4,stop
+TX,Dallas County,48113,county,5/15/20,Shelter in Place,stop
+NE,Harlan,31083,county,5/11/20,Shelter in Place,stop
+MS,Montgomery,28097,county,8/3/20,Phase 3,stop
+NE,Nemaha,31127,county,5/11/20,Shelter in Place,stop
+NJ,,,state,6/9/20,Shelter in Place,stop
+TX,Chambers County,48071,county,4/30/20,Shelter in Place,stop
+NE,Box Butte,31013,county,5/11/20,Shelter in Place,stop
+MS,DeSoto,28033,county,7/20/20,Manufacturing,stop
+MS,Washington,28151,county,7/20/20,Food and Drink,stop
+IL,Cook,17031,county,5/30/20,Phase 1,stop
+WY,,,state,5/1/20,Non-Essential Businesses,stop
+OK,,,state,5/6/20,Shelter in Place,stop
+MS,Madison,28089,county,7/20/20,Entertainment,stop
+MO,,,state,5/4/20,Food and Drink,stop
+TX,Andrews County,48003,county,4/22/20,Shelter in Place,stop
+NE,Washington,31177,county,5/6/20,Shelter in Place,stop
+MI,,,state,9/9/20,Gyms,stop
+IN,Lake,18089,county,6/13/20,Phase 3,stop
+NE,Dundy,31057,county,5/11/20,Shelter in Place,stop
+NY,Cattaraugus,36009,county,6/30/20,Non-Essential Businesses,stop
+NE,Scotts Bluff,31157,county,5/11/20,Shelter in Place,stop
+NE,Wayne,31179,county,5/11/20,Shelter in Place,stop
+NE,Valley,31175,county,5/11/20,Shelter in Place,stop
+NE,Knox,31107,county,5/11/20,Shelter in Place,stop
+TX,Kinney,48271,county,7/3/20,Mask Requirement,start
+TX,Borden,48033,county,7/3/20,Mask Requirement,start
+IN,Lake,18089,county,5/11/20,Phase 2,start
+TN,,,state,3/25/20,Stop Initiation Of Evictions Overall Or Due To Covid Related Issues,start
+VT,,,state,3/20/20,Allow Audio Only Telehealth,start
+TN,Montgomery County,47125,county,4/1/20,Shelter in Place,start
+MS,Quitman,28119,county,7/13/20,Day Care,start
+CT,,,state,3/19/20,Allow Audio Only Telehealth,start
+NY,,,state,3/15/20,Allow Audio Only Telehealth,start
+KS,Coffey County,20031,county,3/26/20,Shelter in Place,start
+TX,Archer,48009,county,7/3/20,Mask Requirement,start
+NY,Bronx,36005,county,6/8/20,Wholesale Trade,start
+CO,,,state,4/1/20,Allow Audio Only Telehealth,start
+DC,,,state,4/17/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+CA,,,state,3/23/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+ND,Walsh,38099,county,9/3/20,Childcare (K-12),start
+ND,Griggs,38039,county,9/3/20,Outdoor and Recreation,start
+TX,Jack,48237,county,7/3/20,Mask Requirement,start
+DC,,,state,3/19/20,Allow Audio Only Telehealth,start
+TN,,,state,3/30/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+IN,,,state,3/16/20,Food and Drink,start
+NM,,,state,3/11/20,State of Emergency,start
+OH,Huron,39077,county,7/8/20,Mask Requirement,start
+TX,,,state,3/17/20,Allow Expand Medicaid Telehealth Coverage,start
+ND,Williams,38105,county,9/3/20,Food and Drink,start
+IN,Cass,18017,state,5/18/20,Phase 2,start
+ND,Foster,38031,county,9/3/20,Food and Drink,start
+MS,Grenada,28043,county,7/13/20,Houses of Worship,start
+NJ,,,state,4/8/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+VA,,,state,3/30/20,Shelter in Place,start
+CA,Alameda,6001,county,6/8/20,Phase 2,start
+MA,,,state,3/17/20,Food and Drink,start
+TX,Nueces County,48355,county,3/26/20,Shelter in Place,start
+PA,Lackawanna,42069,county,6/26/20,Phase 2,start
+ME,Aroostook,23003,county,5/11/20,Non-Essential Businesses,start
+NJ,,,state,3/16/20,Entertainment,start
+MD,,,state,3/12/20,Allow Expand Medicaid Telehealth Coverage,start
+NE,Stanton,31167,county,3/29/20,Shelter in Place,start
+WI,Dane,55025,county,6/15/20,Phase 2,start
+ND,Rolette,38079,county,9/3/20,Non-Essential Businesses,start
+UT,Millard,49027,county,6/19/20,Phase 4,start
+UT,Daggett,49009,county,6/19/20,Phase 4,start
+CA,Alameda,6001,county,6/8/20,Phase 2,start
+WV,,,state,3/26/20,Day Care,start
+NE,Sherman,31163,county,4/3/20,Shelter in Place,start
+OK,,,state,3/16/20,Allow Expand Medicaid Telehealth Coverage,start
+MO,Ray County,29177,county,3/25/20,Shelter in Place,start
+TX,Presidio County,48377,county,3/31/20,Shelter in Place,start
+IL,Randolph,17157,county,8/18/20,Food and Drink,start
+MS,Hinds,28049,county,7/13/20,Non-Essential Businesses,start
+OR,Clackamas,41005,county,5/23/20,Non-Essential Businesses,start
+MS,DeSoto,28033,county,7/13/20,Manufacturing,start
+MO,Clay County,29047,county,3/24/20,Shelter in Place,start
+NY,Kings,36047,county,6/8/20,Wholesale Trade,start
+NV,,,state,3/21/20,Non-Essential Businesses,start
+UT,Duchesne,49013,county,6/19/20,Phase 4,start
+FL,Palm Beach,12099,county,9/4/20,Phase 2,start
+IL,Cook,17031,county,3/21/20,Entertainment,start
+NE,Phelps,31137,county,3/31/20,Shelter in Place,start
+GA,,,state,4/3/20,Food and Drink,start
+NY,Richmond,36085,county,6/8/20,Manufacturing,start
+NC,,,state,3/23/20,Allow Expand Medicaid Telehealth Coverage,start
+IN,,,state,3/25/20,Non-Essential Businesses,start
+PA,Bucks County,42017,county,3/23/20,Shelter in Place,start
+WI,Dane,55025,county,5/26/20,Childcare (K-12),start
+KY,,,state,3/26/20,Non-Essential Businesses,start
+AR,,,state,5/11/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+ME,Knox,23013,county,7/8/20,Mask Requirement,start
+MT,,,state,3/15/20,Nursing Homes,start
+CO,,,state,3/23/20,Childcare (K-12),start
+IN,,,state,3/19/20,Stop Initiation Of Evictions Overall Or Due To Covid Related Issues,start
+KS,Jefferson County,20087,county,3/28/20,Shelter in Place,start
+MI,Alger,26003,county,7/31/20,Outdoor and Recreation,start
+TX,Nacogdoches County,48347,county,3/30/20,Shelter in Place,start
+PA,Luzerne,42079,county,6/19/20,Phase 2,start
+IN,,,state,7/27/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+OH,Union,39159,county,7/23/20,Public Health Advisory System,start
+NY,New York,36061,county,6/8/20,Wholesale Trade,start
+NC,,,state,3/23/20,Nursing Homes,start
+KY,,,state,3/6/20,State of Emergency,start
+CO,Denver,8031,county,6/17/20,Food and Drink,start
+NH,,,state,3/17/20,Stop Initiation Of Evictions Overall Or Due To Covid Related Issues,start
+NY,Allegany,36003,county,6/16/20,Food and Drink,start
+PA,,,state,3/20/20,Allow Expand Medicaid Telehealth Coverage,start
+NE,Lancaster,31109,county,9/14/20,Mask Requirement,start
+CO,,,state,4/27/20,Resumed Elective Medical Procedures,start
+IA,,,state,4/2/20,Childcare (K-12),start
+FL,,,state,3/20/20,Food and Drink,start
+ND,Nelson,38063,county,9/3/20,Non-Essential Businesses,start
+ND,Burleigh,38015,county,9/3/20,Phase 3,start
+MO,Randolph County,29175,county,3/25/20,Shelter in Place,start
+NY,New York,36061,county,7/6/20,Phase 3,start
+MA,,,state,3/24/20,Gyms,start
+TX,,,state,3/17/20,Allow Audio Only Telehealth,start
+NY,,,state,3/20/20,Stop Initiation Of Evictions Overall Or Due To Covid Related Issues,start
+ND,Williams,38105,county,9/3/20,Phase 3,start
+AR,,,state,4/3/20,Suspended Elective Medical Dental Procedures,start
+FL,,,state,3/20/20,Suspended Elective Medical Dental Procedures,start
+ND,Grand Forks,38035,county,9/3/20,Non-Essential Businesses,start
+OR,Clackamas,41005,county,5/23/20,Personal Care,start
+MD,,,state,5/7/20,Resumed Elective Medical Procedures,start
+FL,,,state,3/17/20,Childcare (K-12),start
+TX,Stephens County,48429,county,3/23/20,Shelter in Place,start
+CA,,,state,3/27/20,Stop Enforcement Of Evictions Overall Or Due To Covid Related Issues,start
+CT,,,state,3/18/20,Allow Expand Medicaid Telehealth Coverage,start
+NJ,,,state,3/21/20,Non-Essential Businesses,start
+MN,,,state,3/20/20,Reopened ACA Enrollment Using a Special Enrollment Period,start
+PA,Pike,42103,county,6/19/20,Phase 2,start
+NY,Queens,36081,county,6/8/20,Non-Essential Businesses,start
+AK,Skagway Municipality,2230,county,3/25/20,Shelter in Place,start
+ME,Franklin,23007,county,5/18/20,Food and Drink,start
+TX,Motley,48345,county,7/3/20,Mask Requirement,start
+NC,,,state,3/23/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+DE,,,state,3/24/20,Order Freezing Utility Shut Offs,start
+NE,Furnas,31065,county,4/3/20,Shelter in Place,start
+MS,Sunflower,28133,county,7/20/20,Outdoor and Recreation,stop
+MO,Jackson,29095,county,5/31/20,Outdoor and Recreation,stop
+KY,,,state,5/11/20,Non-Essential Businesses,stop
+OK,,,state,5/1/20,Food and Drink,stop
+ME,,,state,6/17/20,Gyms,stop
+NE,Stanton,31167,county,5/6/20,Shelter in Place,stop
+MO,Webster County,29225,county,4/24/20,Shelter in Place,stop
+NV,,,state,5/29/20,Gyms,stop
+NE,Banner,31007,county,5/11/20,Shelter in Place,stop
+TX,Coryell County,48099,county,5/4/20,Shelter in Place,stop
+NE,Kimball,31105,county,5/11/20,Shelter in Place,stop
+TX,Cass County,48067,county,4/30/20,Shelter in Place,stop
+PA,Beaver County,42007,county,4/30/20,Shelter in Place,stop
+FL,Palm Beach,12099,county,7/5/20,Non-Essential Businesses,stop
+UT,,,state,5/1/20,Food and Drink,stop
+TX,Jefferson County,48245,county,4/10/20,Shelter in Place,stop
+MN,,,state,6/1/20,Food and Drink,stop
+GA,Cobb County,13067,county,4/15/20,Shelter in Place,stop
+FL,Sumter County,12119,county,4/30/20,Shelter in Place,stop
+MS,Madison,28089,county,7/20/20,Day Care,stop
+LA,,,state,5/1/20,Food and Drink,stop
+NE,Custer,31041,county,5/11/20,Shelter in Place,stop
+MS,Claiborne,28021,county,7/20/20,Manufacturing,stop
+MS,Washington,28151,county,7/20/20,Day Care,stop
+OK,,,state,4/24/20,Non-Essential Businesses,stop
+TX,Refugio County,48391,county,4/30/20,Shelter in Place,stop
+CA,Placer County,6061,county,5/1/20,Shelter in Place,stop
+OR,,,state,5/15/20,Shelter in Place,stop
+MO,Jackson County,29095,county,4/23/20,Shelter in Place,stop
+AZ,,,state,5/15/20,Shelter in Place,stop
+MS,Jefferson,28063,county,7/20/20,Non-Essential Businesses,stop
+MS,Rankin,28121,county,7/20/20,Houses of Worship,stop
+MS,Wayne,28153,county,7/20/20,Houses of Worship,stop
+ME,,,state,5/31/20,Shelter in Place,stop
+NE,Morrill,31123,county,5/11/20,Shelter in Place,stop
+NE,Lancaster,31109,county,10/31/20,Mask Requirement,stop
+DC,,,state,6/22/20,Gyms,stop
+KY,,,state,5/22/20,Food and Drink,stop
+CA,Sutter County,6101,county,5/3/20,Shelter in Place,stop
+PA,Monroe County,42089,county,4/30/20,Shelter in Place,stop
+CO,Broomfield County,8014,county,3/26/20,Shelter in Place,stop
+TX,Kaufman County,48257,county,4/8/20,Shelter in Place,stop
+MS,Wayne,28153,county,7/20/20,Entertainment,stop
+NE,McPherson,31119,county,5/11/20,Shelter in Place,stop
+TX,Hays County,48209,county,4/10/20,Shelter in Place,stop
+NC,Gaston County,37071,county,4/16/20,Shelter in Place,stop
+MS,Washington,28151,county,7/20/20,Childcare (K-12),stop
+FL,,,state,5/18/20,Food and Drink,stop
+TX,Val Verde County,48465,county,5/5/20,Shelter in Place,stop
+MS,Wayne,28153,county,7/20/20,Day Care,stop
+NC,Mecklenburg County,37119,county,4/29/20,Shelter in Place,stop
+KS,,,state,5/4/20,Shelter in Place,stop
+AR,,,state,5/4/20,Non-Essential Businesses,stop
+TX,Willacy County,48489,county,5/4/20,Shelter in Place,stop
+MO,Lincoln County,29113,county,4/6/20,Shelter in Place,stop
+ID,,,state,5/1/20,Shelter in Place,stop
+NE,,,state,5/11/20,Shelter in Place,stop
+MS,Claiborne,28021,county,7/20/20,Day Care,stop
+TX,Young County,48503,county,5/1/20,Shelter in Place,stop
+TX,Montgomery County,48339,county,4/17/20,Shelter in Place,stop
+NE,Keith,31101,county,5/11/20,Shelter in Place,stop
+MO,Boone County,29019,county,4/24/20,Shelter in Place,stop
+OH,,,state,5/15/20,Food and Drink,stop
+UT,Salt Lake,49035,county,8/7/20,Phase 2,stop
+MS,Quitman,28119,county,7/20/20,Food and Drink,stop
+WV,,,state,5/4/20,Non-Essential Businesses,stop
+NE,Lancaster,31109,county,10/31/20,Non-Essential Businesses,stop
+DE,,,state,6/1/20,Food and Drink,stop
+UT,Wasatch County,49051,county,4/14/20,Shelter in Place,stop
+NE,Phelps,31137,county,5/11/20,Shelter in Place,stop
+MA,,,state,7/13/20,Gyms,stop
+NE,Seward,31159,county,5/6/20,Shelter in Place,stop
+AL,,,state,5/11/20,Gyms,stop
+MS,Grenada,28043,county,7/20/20,Outdoor and Recreation,stop
+DE,,,state,6/1/20,Gyms,stop
+CA,Alameda County,6001,county,5/31/20,Shelter in Place,stop
+NE,Dodge,31053,county,5/6/20,Shelter in Place,stop
+PA,York County,42133,county,4/30/20,Shelter in Place,stop
+TX,,,state,5/18/20,Gyms,stop
+NM,,,state,6/1/20,Gyms,stop
+MO,Linn County,29115,county,4/24/20,Shelter in Place,stop
+IA,Dallas,19049,county,9/20/20,Food and Drink,stop
+NE,Platte,31141,county,5/11/20,Shelter in Place,stop
+AK,Anchorage Municipality,2020,county,3/31/20,Shelter in Place,stop
+NE,Saunders,31155,county,5/6/20,Shelter in Place,stop
+GA,Decatur County,13087,county,4/7/20,Shelter in Place,stop
+TX,Swisher County,48437,county,4/30/20,Shelter in Place,stop
+NE,Greeley,31077,county,5/11/20,Shelter in Place,stop
+FL,Osceola County,12097,county,4/9/20,Shelter in Place,stop
+OR,,,state,6/19/20,Gyms,stop
+GA,Fulton,13121,county,4/30/20,Non-Essential Businesses,stop
+TX,Erath County,48143,county,4/30/20,Shelter in Place,stop
+AZ,,,state,5/11/20,Food and Drink,stop
+UT,Salt Lake County,49035,county,4/13/20,Shelter in Place,stop
+IN,Marion,18097,county,6/1/20,Phase 2,stop
+VT,,,state,6/1/20,Gyms,stop
+NE,Hall,31079,county,5/6/20,Shelter in Place,stop
+MS,Quitman,28119,county,7/20/20,Day Care,stop
+NE,Sherman,31163,county,5/11/20,Shelter in Place,stop
+WV,,,state,5/4/20,Shelter in Place,stop
+TX,Navarro County,48349,county,4/30/20,Shelter in Place,stop
+MS,Hinds,28049,county,7/20/20,Food and Drink,stop
+IL,Cook,17031,county,5/30/20,Childcare (K-12),stop
+KS,Atchison County,20005,county,4/25/20,Shelter in Place,stop
+MS,Harrison,28047,county,7/20/20,Day Care,stop
+DE,,,state,5/31/20,Shelter in Place,stop
+NE,Clay,31035,county,5/11/20,Shelter in Place,stop
+PA,Lebanon County,42075,county,4/30/20,Shelter in Place,stop
+NE,Rock,31149,county,5/11/20,Shelter in Place,stop
+GA,Fulton,13121,county,4/30/20,Personal Care,stop
+NE,Burt,31021,county,5/6/20,Shelter in Place,stop
+MS,Jackson,28059,county,7/20/20,Food and Drink,stop
+UT,Kane,49025,county,6/26/20,Phase 4,stop
+NE,Buffalo,31019,county,5/11/20,Shelter in Place,stop
+UT,,,state,5/1/20,Gyms,stop
+PA,Washington County,42125,county,4/30/20,Shelter in Place,stop
+MS,DeSoto,28033,county,7/20/20,Outdoor and Recreation,stop
+PA,Cumberland County,42041,county,4/30/20,Shelter in Place,stop
+FL,St. Lucie County,12111,county,4/24/20,Shelter in Place,stop
+LA,,,state,5/1/20,Non-Essential Businesses,stop
+CA,Nevada County,6057,county,5/15/20,Shelter in Place,stop
+OH,,,state,5/4/20,Non-Essential Businesses,stop
+TX,Jeff Davis County,48243,county,4/30/20,Shelter in Place,stop
+TN,Shelby County,47157,county,4/7/20,Shelter in Place,stop
+MO,Jackson,29095,county,5/31/20,Food and Drink,stop
+HI,,,state,5/31/20,Shelter in Place,stop
+TX,Bexar,48029,county,6/4/20,Shelter in Place,stop
+IA,,,state,4/30/20,Shelter in Place,stop
+PA,Northampton County,42095,county,4/30/20,Shelter in Place,stop
+SC,,,state,8/3/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+UT,Summit County,49043,county,3/27/20,Shelter in Place,start
+MI,Baraga,26013,county,7/31/20,Entertainment,start
+LA,,,state,3/17/20,Entertainment,start
+MI,,,state,3/24/20,Shelter in Place,start
+CA,Ventura,6111,county,10/6/20,Phase 2,start
+TX,Kent,48263,county,7/3/20,Mask Requirement,start
+WI,,,state,3/27/20,Stop Enforcement Of Evictions Overall Or Due To Covid Related Issues,start
+FL,,,state,3/16/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+CA,Alameda,6001,county,5/18/20,Houses of Worship,start
+IL,Washington,17189,county,8/18/20,Food and Drink,start
+MS,Calhoun,28013,county,7/25/20,Phase 3,start
+HI,,,state,4/16/20,Suspended Elective Medical Dental Procedures,start
+NE,Nuckolls,31129,county,3/31/20,Shelter in Place,start
+NC,,,state,3/25/20,Entertainment,start
+MI,Wexford,26165,county,7/31/20,Entertainment,start
+IL,St. Clair,17163,county,8/18/20,Non-Essential Businesses,start
+TX,Brazoria County,48039,county,3/26/20,Shelter in Place,start
+TX,Newton County,48351,county,3/30/20,Shelter in Place,start
+OR,,,state,3/25/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+TX,Wood County,48499,county,4/1/20,Shelter in Place,start
+TX,Dickens,48125,county,7/3/20,Mask Requirement,start
+CA,San Luis Obispo County,6079,county,3/19/20,Shelter in Place,start
+ME,Washington,23029,county,5/18/20,Food and Drink,start
+AR,,,state,3/20/20,Entertainment,start
+TX,Travis County,48453,county,3/24/20,Shelter in Place,start
+MD,,,state,3/5/20,State of Emergency,start
+OR,Benton,41003,county,6/5/20,Outdoor and Recreation,start
+WA,,,state,3/17/20,Childcare (K-12),start
+KY,,,state,5/6/20,Resumed Elective Medical Procedures,start
+AZ,,,state,5/8/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+MS,DeSoto,28033,county,7/13/20,Entertainment,start
+WI,,,state,4/20/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+NE,Merrick,31121,county,3/28/20,Shelter in Place,start
+TX,Maverick County,48323,county,3/31/20,Shelter in Place,start
+WY,,,state,3/19/20,Entertainment,start
+MN,,,state,3/24/20,Stop Initiation Of Evictions Overall Or Due To Covid Related Issues,start
+ID,Blaine County,16013,county,3/19/20,Shelter in Place,start
+OK,,,state,3/16/20,Nursing Homes,start
+MO,Jackson County,29095,county,3/24/20,Shelter in Place,start
+UT,,,state,3/25/20,Suspended Elective Medical Dental Procedures,start
+AL,,,state,3/20/20,Day Care,start
+OK,,,state,3/25/20,Allow Audio Only Telehealth,start
+NE,Valley,31175,county,4/3/20,Shelter in Place,start
+MS,,,state,3/16/20,Allow Audio Only Telehealth,start
+DC,District of Columbia,11001,county,3/23/20,Shelter in Place,start
+CA,Ventura,6111,county,10/6/20,Outdoor and Recreation,start
+IL,Cook,17031,county,6/3/20,Phase 3,start
+TX,Hudspeth,48229,county,7/3/20,Mask Requirement,start
+NC,Cabarrus County,37025,county,3/26/20,Shelter in Place,start
+MI,Keweenaw,26083,county,7/31/20,Outdoor and Recreation,start
+NY,Richmond,36085,county,6/8/20,New Phase,start
+MN,,,state,3/28/20,Non-Essential Businesses,start
+NM,,,state,3/16/20,Childcare (K-12),start
+HI,Honolulu County,15003,county,3/23/20,Shelter in Place,start
+TX,Nolan County,48353,county,4/2/20,Shelter in Place,start
+PA,,,state,3/17/20,Day Care,start
+NE,Cuming,31039,county,3/29/20,Shelter in Place,start
+TX,Pecos County,48371,county,4/2/20,Shelter in Place,start
+PA,Wayne,42127,county,6/12/20,Phase 2,start
+PA,Northumberland,42097,county,6/12/20,Phase 2,start
+MD,,,state,3/16/20,Gyms,start
+MI,Dickinson,26043,county,7/31/20,Entertainment,start
+ND,Traill,38097,county,9/3/20,Non-Essential Businesses,start
+NE,Franklin,31061,county,3/31/20,Shelter in Place,start
+ND,Billings,38007,county,9/3/20,Phase 5,start
+NH,Hillsborough,33011,county,6/15/20,Food and Drink,start
+IL,,,state,5/11/20,Resumed Elective Medical Procedures,start
+FL,Orange County,12095,county,3/26/20,Shelter in Place,start
+TX,Mason,48319,county,7/3/20,Mask Requirement,start
+WA,,,state,6/26/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+MO,Stoddard County,29207,county,4/3/20,Shelter in Place,start
+MO,Webster County,29225,county,3/26/20,Shelter in Place,start
+CO,Douglas County,8035,county,3/26/20,Shelter in Place,start
+NJ,,,state,4/13/20,Order Freezing Utility Shut Offs,start
+AK,,,state,3/16/20,Childcare (K-12),start
+IN,,,state,3/24/20,Gyms,start
+FL,,,state,3/20/20,Non-Essential Businesses,start
+MS,Washington,28151,county,7/13/20,Day Care,start
+MI,Presque Isle,26141,county,7/31/20,Entertainment,start
+NY,Kings,36047,county,6/8/20,Manufacturing,start
+PA,Monroe County,42089,county,3/23/20,Shelter in Place,start
+OH,Cuyahoga,39035,county,7/23/20,Public Health Advisory System,start
+IA,Story,19169,county,8/27/20,Food and Drink,start
+IN,Cass,18017,county,6/1/20,Phase 3,start
+MS,Hinds,28049,county,7/13/20,Outdoor and Recreation,start
+ID,Bear Lake,16007,county,6/13/20,Phase 4,start
+OR,,,state,3/13/20,Allow Expand Medicaid Telehealth Coverage,start
+OR,,,state,5/1/20,Resumed Elective Medical Procedures,start
+TX,Webb County,48479,county,3/28/20,Shelter in Place,start
+KS,Douglas County,20045,county,3/24/20,Shelter in Place,start
+MI,Presque Isle,26141,county,7/31/20,Outdoor and Recreation,start
+IA,,,state,3/26/20,Allow Audio Only Telehealth,start
+IA,,,state,3/27/20,Order Freezing Utility Shut Offs,start
+IA,,,state,3/17/20,Gyms,start
+NY,Bronx,36005,county,6/8/20,Construction,start
+CA,Placer County,6061,county,3/20/20,Shelter in Place,start
+RI,,,state,3/16/20,Day Care,start
+MI,Menominee,26109,county,7/31/20,Outdoor and Recreation,start
+VT,,,state,8/1/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+CA,Sutter County,6101,county,3/18/20,Shelter in Place,start
+MO,McDonald County,29119,county,4/6/20,Shelter in Place,start
+MS,Washington,28151,county,7/13/20,Non-Essential Businesses,start
+TN,,,state,4/2/20,Shelter in Place,start
+NE,,,state,4/2/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+UT,Piute,49031,county,6/19/20,Phase 4,start
+KY,,,state,3/26/20,Shelter in Place,start
+KY,,,state,3/18/20,Entertainment,start
+TX,Smith County,48423,county,3/27/20,Shelter in Place,start
+MS,Claiborne,28021,county,7/13/20,Childcare (K-12),start
+IL,,,state,3/21/20,Stop Enforcement Of Evictions Overall Or Due To Covid Related Issues,start
+NV,,,state,3/16/20,Childcare (K-12),start
+TX,Llano County,48299,county,3/30/20,Shelter in Place,start
+RI,,,state,3/17/20,Food and Drink,start
+WY,,,state,3/19/20,Day Care,start
+MI,,,state,3/24/20,Day Care,start
+CO,,,state,4/30/20,Stop Initiation Of Evictions Overall Or Due To Covid Related Issues,start
+TX,Potter County,48375,county,3/30/20,Shelter in Place,start
+OH,Pickaway,39129,county,7/23/20,Public Health Advisory System,start
+MI,Mackinac,26097,county,7/31/20,Outdoor and Recreation,start
+TX,Val Verde County,48465,county,3/23/20,Shelter in Place,start
+PA,Adams,42001,county,6/12/20,Phase 2,start
+MO,Jackson,29095,county,5/11/20,Food and Drink,start
+OR,,,state,3/17/20,Food and Drink,start
+TX,Johnson County,48251,county,3/27/20,Shelter in Place,start
+ND,Benson,38005,county,9/3/20,Food and Drink,start
+WV,,,state,3/19/20,Gyms,start
+NH,,,state,3/23/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+VT,,,state,3/25/20,Non-Essential Businesses,start
+TN,,,state,3/23/20,Gyms,start
+MT,,,state,3/30/20,Stop Initiation Of Evictions Overall Or Due To Covid Related Issues,start
+NE,Garden,31069,county,3/30/20,Shelter in Place,start
+KS,Johnson County,20091,county,3/24/20,Shelter in Place,start
+KY,,,state,3/18/20,Gyms,start
+VT,,,state,3/18/20,Day Care,start
+FL,Sumter County,12119,county,3/31/20,Shelter in Place,start
+TX,Panola County,48365,county,4/1/20,Shelter in Place,start
+GA,Decatur County,13087,county,3/25/20,Shelter in Place,start
+ND,Grand Forks,38035,county,9/3/20,Food and Drink,start
+NE,Wheeler,31183,county,4/3/20,Shelter in Place,start
+CO,Arapahoe County,8005,county,3/26/20,Shelter in Place,start
+NE,Thurston,31173,county,4/3/20,Shelter in Place,start
+MI,,,state,3/21/20,Suspended Elective Medical Dental Procedures,start
+AR,,,state,3/17/20,Childcare (K-12),start
+TX,Brewster County,48043,county,3/31/20,Shelter in Place,start
+TX,Sterling,48431,county,7/3/20,Mask Requirement,start
+ME,Sagadahoc,23023,county,7/8/20,Mask Requirement,start
+VA,,,state,3/19/20,Allow Expand Medicaid Telehealth Coverage,start
+ME,Penobscot,23019,county,6/1/20,Non-Essential Businesses,start
+TX,Eastland,48133,county,7/3/20,Mask Requirement,start
+ID,Adams,16003,county,6/13/20,Food and Drink,start
+NE,Banner,31007,county,3/30/20,Shelter in Place,start
+MS,,,state,5/7/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+KS,Atchison County,20005,county,3/25/20,Shelter in Place,start
+OH,Defiance,39039,county,7/23/20,Public Health Advisory System,start
+DE,Sussex,10005,county,7/3/20,Food and Drink,start
+MO,Osage County,29151,county,4/3/20,Shelter in Place,start
+TX,Gray County,48179,county,4/2/20,Shelter in Place,start
+KY,,,state,3/25/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+MS,,,state,4/3/20,Shelter in Place,start
+MS,Wayne,28153,county,7/13/20,Childcare (K-12),start
+GA,Fulton,13121,county,4/1/20,Personal Care,start
+ND,Cavalier,38019,county,9/3/20,Food and Drink,start
+TX,Hopkins County,48223,county,4/6/20,Shelter in Place,start
+ME,Androscoggin,23001,county,6/1/20,Non-Essential Businesses,start
+ND,Morton,38059,county,9/3/20,Childcare (K-12),start
+MO,Jackson,29095,county,5/11/20,Outdoor and Recreation,start
+GA,Fulton,13121,county,4/1/20,Childcare (K-12),start
+ME,,,state,5/1/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+WV,Berkeley County,54003,county,4/5/20,Shelter in Place,start
+TX,Haskell,48207,county,7/3/20,Mask Requirement,start
+NE,Blaine,31009,county,4/3/20,Shelter in Place,start
+TX,Bowie County,48037,county,3/27/20,Shelter in Place,start
+HI,,,state,3/25/20,Non-Essential Businesses,start
+OH,Clermont,39025,county,7/10/20,Mask Requirement,start
+ME,Franklin,23007,county,5/11/20,Non-Essential Businesses,start
+MI,,,state,3/10/20,State of Emergency,start
+NE,Dixon,31051,county,4/3/20,Shelter in Place,start
+WA,,,state,3/16/20,Gyms,start
+ID,Bear Lake,16007,county,6/13/20,Non-Essential Businesses,start
+NE,Adams,31001,county,3/31/20,Shelter in Place,start
+TX,Madison County,48313,county,3/30/20,Shelter in Place,start
+ND,Foster,38031,county,9/3/20,Childcare (K-12),start
+IA,,,state,3/19/20,Stop Initiation Of Evictions Overall Or Due To Covid Related Issues,start
+WI,,,state,3/13/20,Order Freezing Utility Shut Offs,start
+TX,La Salle County,48283,county,4/6/20,Shelter in Place,start
+ME,Oxford,23017,county,5/18/20,Outdoor and Recreation,start
+MS,Rankin,28121,county,7/13/20,Entertainment,start
+NY,Bronx,36005,county,6/8/20,Manufacturing,start
+HI,,,state,3/17/20,Nursing Homes,start
+NE,Platte,31141,county,4/3/20,Shelter in Place,start
+NH,Strafford,33017,county,6/15/20,Food and Drink,start
+OR,Grant,41023,county,6/5/20,New Phase,start
+OH,Summit,39153,county,7/23/20,Public Health Advisory System,start
+NE,Pawnee,31133,county,4/3/20,Shelter in Place,start
+WI,,,state,3/18/20,Childcare (K-12),start
+PA,,,state,3/20/20,Suspended Elective Medical Dental Procedures,start
+AR,,,state,4/4/20,Non-Essential Businesses,start
+PA,Chester County,42029,county,3/23/20,Shelter in Place,start
+TX,Delta,48119,county,7/3/20,Mask Requirement,start
+MI,,,state,4/26/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+MO,St. Francois County,29187,county,4/3/20,Shelter in Place,start
+NH,,,state,3/15/20,Nursing Homes,start
+MN,,,state,3/27/20,Shelter in Place,start
+TX,Kaufman County,48257,county,3/25/20,Shelter in Place,start
+ME,,,state,5/1/20,Resumed Elective Medical Procedures,start
+NE,,,state,4/10/20,Shelter in Place,start
+MO,Christian County,29043,county,3/26/20,Shelter in Place,start
+FL,,,state,5/11/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+AK,Anchorage Municipality,2020,county,3/22/20,Shelter in Place,start
+ME,Knox,23013,county,5/18/20,Outdoor and Recreation,start
+UT,,,state,3/20/20,Allow Expand Medicaid Telehealth Coverage,start
+MO,Jackson,29095,county,5/11/20,Houses of Worship,start
+OR,,,state,3/8/20,State of Emergency,start
+ND,Stark,38089,county,9/3/20,Childcare (K-12),start
+NE,Lancaster,31109,county,9/14/20,Food and Drink,start
+CA,Inyo County,6027,county,3/20/20,Shelter in Place,start
+PA,Dauphin,42043,county,6/19/20,Phase 2,start
+IA,,,state,3/25/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+KS,Morris County,20127,county,3/25/20,Shelter in Place,start
+MS,Grenada,28043,county,7/13/20,Day Care,start
+AZ,,,state,3/24/20,Stop Enforcement Of Evictions Overall Or Due To Covid Related Issues,start
+MS,DeSoto,28033,county,7/13/20,Houses of Worship,start
+MS,,,state,3/15/20,Order Freezing Utility Shut Offs,start
+NE,Otoe,31131,county,4/3/20,Shelter in Place,start
+GA,,,state,4/3/20,Nursing Homes,start
+NE,Lancaster,31109,county,9/14/20,Childcare (K-12),start
+WV,,,state,8/12/20,Nursing Homes,start
+SC,,,state,3/30/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+CO,,,state,3/23/20,Suspended Elective Medical Dental Procedures,start
+IA,,,state,3/17/20,Entertainment,start
+TX,Guadalupe County,48187,county,4/3/20,Shelter in Place,start
+WV,,,state,3/18/20,Food and Drink,start
+MO,Cole County,29051,county,3/28/20,Shelter in Place,start
+MI,Gogebic,26053,county,7/31/20,Outdoor and Recreation,start
+KS,Wyandotte,20209,county,6/30/20,Mask Requirement,start
+MS,Sunflower,28133,county,7/13/20,Food and Drink,start
+CO,,,state,3/17/20,Food and Drink,start
+MS,Jefferson,28063,county,7/13/20,Houses of Worship,start
+ND,Traill,38097,county,9/3/20,Phase 5,start
+TX,,,state,5/8/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+MO,Caldwell County,29025,county,3/27/20,Shelter in Place,start
+MO,,,state,4/6/20,Shelter in Place,start
+MS,Jackson,28059,county,7/13/20,Manufacturing,start
+HI,Honolulu,15003,county,9/24/20,Phase 1,start
+FL,Monroe,12087,county,7/2/20,Outdoor and Recreation,start
+HI,,,state,3/16/20,Childcare (K-12),start
+ME,,,state,4/7/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+TX,Ochiltree,48357,county,7/3/20,Mask Requirement,start
+OR,,,state,7/1/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+OH,Fairfield,39045,county,7/23/20,Public Health Advisory System,start
+MI,,,state,3/16/20,Childcare (K-12),start
+MP,,,state,3/30/20,Shelter in Place,start
+OR,Clackamas,41005,county,5/23/20,Food and Drink,start
+NH,Rockingham,33015,county,6/15/20,Food and Drink,start
+MI,,,state,3/12/20,Allow Expand Medicaid Telehealth Coverage,start
+TN,,,state,3/23/20,Nursing Homes,start
+HI,,,state,3/17/20,Entertainment,start
+VA,,,state,3/25/20,Food and Drink,start
+MI,Keweenaw,26083,county,7/31/20,Entertainment,start
+TX,Shackelford,48417,county,7/3/20,Mask Requirement,start
+RI,,,state,3/18/20,Allow Expand Medicaid Telehealth Coverage,start
+MO,Cass County,29037,county,3/24/20,Shelter in Place,start
+TX,Victoria County,48469,county,4/2/20,Shelter in Place,start
+ME,Lincoln,23015,county,5/11/20,Non-Essential Businesses,start
+IL,,,state,3/21/20,Shelter in Place,start
+OH,Athens,39009,county,7/17/20,Mask Requirement,start
+CT,,,state,3/10/20,State of Emergency,start
+NY,Richmond,36085,county,6/8/20,Non-Essential Businesses,start
+NE,Lincoln,31111,county,4/1/20,Shelter in Place,start
+GA,Pickens County,13227,county,3/24/20,Shelter in Place,start
+OR,,,state,3/23/20,Shelter in Place,start
+CA,Ventura,6111,county,10/6/20,Non-Essential Businesses,start
+MS,DeSoto,28033,county,7/13/20,Outdoor and Recreation,start
+MS,Quitman,28119,county,7/13/20,Non-Essential Businesses,start
+MS,Quitman,28119,county,7/13/20,Entertainment,start
+OH,,,state,3/19/20,Allow Audio Only Telehealth,start
+AZ,,,state,3/20/20,Entertainment,start
+IL,,,state,3/19/20,Allow Audio Only Telehealth,start
+KS,Lyon County,20111,county,3/26/20,Shelter in Place,start
+TX,Bexar,48029,county,5/19/20,Personal Care,start
+ME,Sagadahoc,23023,county,5/18/20,Outdoor and Recreation,start
+NC,,,state,3/10/20,State of Emergency,start
+NE,,,state,4/3/20,Gyms,start
+TX,Red River,48387,county,7/3/20,Mask Requirement,start
+RI,,,state,3/23/20,Gyms,start
+KS,,,state,3/30/20,Non-Essential Businesses,start
+IA,,,state,3/17/20,Food and Drink,start
+CA,Santa Clara County,6085,county,3/17/20,Shelter in Place,start
+KS,Sumner County,20191,county,3/27/20,Shelter in Place,start
+CA,San Benito County,6069,county,3/18/20,Shelter in Place,start
+TX,Childress,48075,county,7/3/20,Mask Requirement,start
+OH,Allen,39003,county,7/23/20,Public Health Advisory System,start
+WV,Monongalia,54061,county,7/23/20,Bars,start
+OR,,,state,4/1/20,Stop Initiation Of Evictions Overall Or Due To Covid Related Issues,start
+CO,Jefferson County,8059,county,3/26/20,Shelter in Place,start
+CA,,,state,3/19/20,Gyms,start
+TX,Marion County,48315,county,3/31/20,Shelter in Place,start
+NY,New York,36061,county,6/8/20,New Phase,start
+VA,,,state,5/1/20,Resumed Elective Medical Procedures,start
+MO,,,state,4/3/20,Gyms,start
+KY,,,state,3/18/20,Suspended Elective Medical Dental Procedures,start
+CT,,,state,3/16/20,Entertainment,start
+MO,Chariton County,29041,county,3/30/20,Shelter in Place,start
+MT,,,state,3/20/20,Entertainment,start
+IL,,,state,3/21/20,Entertainment,start
+ME,Waldo,23027,county,7/8/20,Mask Requirement,start
+CA,Alameda,6001,county,5/18/20,Outdoor and Recreation,start
+RI,,,state,3/16/20,Order Freezing Utility Shut Offs,start
+NE,,,state,4/3/20,Childcare (K-12),start
+ID,Adams,16003,county,6/13/20,Day Care,start
+MS,Jefferson,28063,county,7/13/20,Manufacturing,start
+VA,,,state,3/25/20,Non-Essential Businesses,start
+CA,San Joaquin County,6077,county,3/21/20,Shelter in Place,start
+WA,,,state,3/18/20,Stop Initiation Of Evictions Overall Or Due To Covid Related Issues,start
+RI,,,state,3/19/20,Stop Initiation Of Evictions Overall Or Due To Covid Related Issues,start
+CA,San Mateo County,6081,county,3/17/20,Shelter in Place,start
+MO,St. Charles County,29183,county,3/24/20,Shelter in Place,start
+MI,Gogebic,26053,county,7/31/20,Entertainment,start
+OR,Baker,41001,county,6/6/20,Entertainment,start
+CT,,,state,3/27/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+MI,Marquette,26103,county,7/31/20,Outdoor and Recreation,start
+TX,,,state,3/22/20,Suspended Elective Medical Dental Procedures,start
+OR,Lane,41039,county,5/15/20,Personal Care,start
+KY,,,state,3/16/20,Childcare (K-12),start
+NJ,,,state,4/8/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+WV,Monongalia,54061,county,7/14/20,Phase 2,start
+UT,Summit,49043,county,6/27/20,Phase 3,start
+MT,,,state,3/28/20,Non-Essential Businesses,start
+AL,,,state,5/11/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+NC,,,state,3/16/20,Childcare (K-12),start
+UT,Grand,49019,county,7/3/20,Phase 3,start
+VT,,,state,5/4/20,Resumed Elective Medical Procedures,start
+DE,,,state,3/24/20,Stop Enforcement Of Evictions Overall Or Due To Covid Related Issues,start
+ME,York,23031,county,6/17/20,Outdoor and Recreation,start
+ME,Somerset,23025,county,5/18/20,Food and Drink,start
+OH,Franklin,39049,county,7/8/20,Mask Requirement,start
+NH,,,state,3/27/20,Shelter in Place,start
+WI,Dane,55025,county,5/26/20,Outdoor and Recreation,start
+PA,Union,42119,county,6/12/20,Phase 2,start
+NH,,,state,3/28/20,Entertainment,start
+WI,,,state,8/1/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+TX,Burnet County,48053,county,3/25/20,Shelter in Place,start
+ND,Burleigh,38015,county,9/3/20,Food and Drink,start
+OK,,,state,4/1/20,Gyms,start
+MN,,,state,3/13/20,State of Emergency,start
+TX,Bailey,48017,county,7/3/20,Mask Requirement,start
+VT,,,state,5/14/20,Stop Initiation Of Evictions Overall Or Due To Covid Related Issues,start
+PA,Lebanon County,42075,county,3/31/20,Shelter in Place,start
+PA,Dauphin County,42043,county,3/30/20,Shelter in Place,start
+MO,Clinton County,29049,county,3/26/20,Shelter in Place,start
+ND,Renville,38075,county,9/3/20,Outdoor and Recreation,start
+NV,,,state,3/29/20,Stop Initiation Of Evictions Overall Or Due To Covid Related Issues,start
+NY,,,state,3/13/20,Order Freezing Utility Shut Offs,start
+HI,,,state,5/4/20,Order Freezing Utility Shut Offs,start
+NJ,,,state,3/20/20,Allow Expand Medicaid Telehealth Coverage,start
+OH,Summit,39153,county,7/10/20,Mask Requirement,start
+CA,Alameda,6001,county,5/18/20,New Phase,start
+AR,,,state,3/13/20,Nursing Homes,start
+MA,,,state,3/24/20,Entertainment,start
+ID,Adams,16003,county,6/13/20,Entertainment,start
+ND,Morton,38059,county,9/3/20,Outdoor and Recreation,start
+NM,,,state,3/27/20,Suspended Elective Medical Dental Procedures,start
+TX,Live Oak County,48297,county,4/2/20,Shelter in Place,start
+MO,Jackson,29095,county,10/9/20,Mask Requirement,start
+MS,Lamar,28073,county,7/25/20,Phase 3,start
+NE,Hooker,31091,county,4/1/20,Shelter in Place,start
+CA,Sacramento County,6067,county,5/1/20,Shelter in Place,stop
+MS,Hinds,28049,county,7/20/20,Entertainment,stop
+TX,Limestone County,48293,county,4/30/20,Shelter in Place,stop
+FL,Monroe,12087,county,7/7/20,Outdoor and Recreation,stop
+WY,,,state,5/15/20,Food and Drink,stop
+MO,Cole County,29051,county,4/25/20,Shelter in Place,stop
+TX,Brewster County,48043,county,4/30/20,Shelter in Place,stop
+NE,Cedar,31027,county,5/11/20,Shelter in Place,stop
+MS,Quitman,28119,county,7/20/20,Outdoor and Recreation,stop
+MS,DeSoto,28033,county,7/20/20,Childcare (K-12),stop
+NE,Deuel,31049,county,5/11/20,Shelter in Place,stop
+PA,Bucks County,42017,county,4/30/20,Shelter in Place,stop
+NC,,,state,5/8/20,Non-Essential Businesses,stop
+IN,Cass,18017,county,5/13/20,Phase 3,stop
+IN,Lake,18089,county,6/1/20,Phase 2,stop
+MS,Jefferson,28063,county,7/20/20,Childcare (K-12),stop
+MS,Grenada,28043,county,7/20/20,Childcare (K-12),stop
+DC,,,state,5/29/20,Non-Essential Businesses,stop
+CA,,,state,5/8/20,Non-Essential Businesses,stop
+GA,,,state,4/27/20,Shelter in Place,stop
+TX,Jasper County,48241,county,5/10/20,Shelter in Place,stop
+MS,Quitman,28119,county,7/20/20,Houses of Worship,stop
+NE,Keya Paha,31103,county,5/11/20,Shelter in Place,stop
+KY,,,state,6/1/20,Gyms,stop
+NE,Cheyenne,31033,county,5/11/20,Shelter in Place,stop
+PA,Carbon County,42025,county,4/30/20,Shelter in Place,stop
+IN,,,state,5/1/20,Shelter in Place,stop
+TX,Gregg County,48183,county,4/9/20,Shelter in Place,stop
+TX,Tyler County,48457,county,4/30/20,Shelter in Place,stop
+KS,,,state,5/18/20,Gyms,stop
+AK,,,state,4/24/20,Non-Essential Businesses,stop
+IL,Cook,17031,county,5/30/20,Outdoor and Recreation,stop
+MS,Jefferson,28063,county,7/20/20,Day Care,stop
+DC,,,state,6/8/20,Shelter in Place,stop
+WI,,,state,5/13/20,Food and Drink,stop
+MS,Quitman,28119,county,7/20/20,Manufacturing,stop
+MS,Claiborne,28021,county,7/20/20,Entertainment,stop
+MO,Jackson,29095,county,5/25/20,New Phase,stop
+OR,Baker,41001,county,6/6/20,Outdoor and Recreation,start
+ND,LaMoure,38045,county,9/3/20,Childcare (K-12),start
+MO,,,state,3/23/20,Childcare (K-12),start
+CA,Alameda,6001,county,5/18/20,Phase 1,start
+MI,Charlevoix,26029,county,7/31/20,Outdoor and Recreation,start
+TN,,,state,3/13/20,Allow Expand Medicaid Telehealth Coverage,start
+TX,Liberty County,48291,county,3/24/20,Shelter in Place,start
+CA,Alameda,6001,county,5/18/20,Entertainment,start
+OR,Baker,41001,county,6/6/20,New Phase,start
+AL,,,state,3/28/20,Entertainment,start
+OR,Lane,41039,county,5/15/20,Food and Drink,start
+FL,Pinellas County,12103,county,3/26/20,Shelter in Place,start
+NJ,,,state,4/24/20,Renter Grace Period Or Use Of Security Deposit To Pay Rent,start
+TX,Carson,48065,county,7/3/20,Mask Requirement,start
+CA,San Francisco,6075,county,9/30/20,Childcare (K-12),start
+UT,Salt Lake County,49035,county,3/30/20,Shelter in Place,start
+IL,Monroe,17133,county,8/18/20,Food and Drink,start
+MS,Quitman,28119,county,7/13/20,Food and Drink,start
+DE,,,state,4/6/20,Day Care,start
+ID,Ada,16001,county,6/24/20,Mask Requirement,start
+ND,Burleigh,38015,county,9/3/20,Childcare (K-12),start
+OH,Medina,39103,county,7/23/20,Public Health Advisory System,start
+GA,,,state,3/18/20,Allow Expand Medicaid Telehealth Coverage,start
+ND,,,state,3/20/20,Allow Expand Medicaid Telehealth Coverage,start
+CO,Denver,8031,county,7/21/20,Mask Requirement,start
+MS,Washington,28151,county,7/13/20,Entertainment,start
+DE,,,state,3/18/20,Allow Expand Medicaid Telehealth Coverage,start
+AZ,,,state,3/21/20,Suspended Elective Medical Dental Procedures,start
+NE,Fillmore,31059,county,4/3/20,Shelter in Place,start
+NY,,,state,3/22/20,Non-Essential Businesses,start
+ND,Walsh,38099,county,9/3/20,Food and Drink,start
+ID,Adams,16003,county,6/13/20,Non-Essential Businesses,start
+MN,,,state,3/18/20,Childcare (K-12),start
+TX,Collingsworth,48087,county,7/3/20,Mask Requirement,start
+PA,Cameron County,42023,county,3/31/20,Shelter in Place,start
+AK,,,state,4/9/20,Order Freezing Utility Shut Offs,start
+KS,,,state,3/12/20,State of Emergency,start
+MD,,,state,3/16/20,Food and Drink,start
+ND,McLean,38055,county,9/3/20,Phase 3,start
+ND,Billings,38007,county,9/3/20,Childcare (K-12),start
+OH,Clark,39023,county,7/23/20,Public Health Advisory System,start
+GA,,,state,4/1/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+UT,,,state,4/10/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+NV,,,state,3/17/20,Allow Expand Medicaid Telehealth Coverage,start
+MI,Alpena,26007,county,7/31/20,Entertainment,start
+ME,Aroostook,23003,county,5/18/20,Outdoor and Recreation,start
+MI,Schoolcraft,26153,county,7/31/20,Entertainment,start
+TN,,,state,3/23/20,Entertainment,start
+ID,Adams,16003,county,6/13/20,Phase 4,start
+KS,,,state,7/3/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+VA,,,state,3/25/20,Entertainment,start
+ND,Divide,38023,county,9/3/20,Childcare (K-12),start
+TX,Martin,48317,county,7/3/20,Mask Requirement,start
+OH,,,state,3/11/20,Nursing Homes,start
+NE,Webster,31181,county,3/31/20,Shelter in Place,start
+IL,,,state,3/18/20,Order Freezing Utility Shut Offs,start
+TX,Culberson County,48109,county,3/25/20,Shelter in Place,start
+PA,York,42133,county,6/12/20,Phase 2,start
+UT,Salt Lake,49035,county,6/26/20,Phase 3,start
+MD,,,state,4/1/20,Reopened ACA Enrollment Using a Special Enrollment Period,start
+IN,Lake,18089,county,6/1/20,Phase 3,start
+ND,Pembina,38067,county,9/3/20,Childcare (K-12),start
+ID,Adams,16003,county,6/13/20,Outdoor and Recreation,start
+KS,,,state,3/17/20,Stop Initiation Of Evictions Overall Or Due To Covid Related Issues,start
+AL,,,state,3/28/20,Non-Essential Businesses,start
+NE,Arthur,31005,county,4/1/20,Shelter in Place,start
+MO,,,state,3/25/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+ME,Piscataquis,23021,county,5/11/20,Non-Essential Businesses,start
+TX,Sutton,48435,county,7/3/20,Mask Requirement,start
+MS,Hinds,28049,county,7/13/20,Day Care,start
+PA,,,state,3/19/20,Entertainment,start
+NE,Sioux,31165,county,3/30/20,Shelter in Place,start
+TX,Taylor County,48441,county,3/31/20,Shelter in Place,start
+TX,Jefferson County,48245,county,3/27/20,Shelter in Place,start
+MS,Jefferson,28063,county,7/13/20,Non-Essential Businesses,start
+OH,Erie,39043,county,7/23/20,Public Health Advisory System,start
+TX,Brazos County,48041,county,3/24/20,Shelter in Place,start
+ME,,,state,4/16/20,Stop Enforcement Of Evictions Overall Or Due To Covid Related Issues,start
+NE,Greeley,31077,county,4/3/20,Shelter in Place,start
+AZ,,,state,3/25/20,Allow Expand Medicaid Telehealth Coverage,start
+NE,McPherson,31119,county,4/1/20,Shelter in Place,start
+MA,,,state,5/6/20,Mandate Face Mask Use By All Individuals In Public Facing Businesses,start
+MD,,,state,3/24/20,Suspended Elective Medical Dental Procedures,start
+NM,,,state,4/30/20,Resumed Elective Medical Procedures,start
+MD,,,state,4/1/20,Allow Audio Only Telehealth,start
+NY,,,state,3/26/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+ID,,,state,3/17/20,Allow Expand Medicaid Telehealth Coverage,start
+IL,,,state,3/19/20,Allow Expand Medicaid Telehealth Coverage,start
+MI,Wexford,26165,county,7/31/20,Outdoor and Recreation,start
+GA,Cherokee County,13057,county,3/26/20,Shelter in Place,start
+NE,Lancaster,31109,county,9/14/20,Phase 3,start
+PA,Northampton,42095,county,6/26/20,Phase 2,start
+MS,Madison,28089,county,7/13/20,Entertainment,start
+MI,Missaukee,26113,county,7/31/20,Entertainment,start
+NM,,,state,3/24/20,Non-Essential Businesses,start
+WA,,,state,3/25/20,Allow Expand Medicaid Telehealth Coverage,start
+PA,Delaware County,42045,county,3/23/20,Shelter in Place,start
+IL,Clinton,17027,county,8/18/20,Entertainment,start
+MS,Jefferson,28063,county,7/13/20,Entertainment,start
+SD,,,state,3/23/20,Suspended Elective Medical Dental Procedures,start
+CA,,,state,3/19/20,Suspended Elective Medical Dental Procedures,start
+AR,,,state,7/20/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+MS,Hinds,28049,county,7/13/20,Houses of Worship,start
+OH,,,state,7/23/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+SC,,,state,3/16/20,Childcare (K-12),start
+OH,Richland,39139,county,7/23/20,Public Health Advisory System,start
+MS,Jefferson,28063,county,7/13/20,Outdoor and Recreation,start
+OR,,,state,3/18/20,Suspended Elective Medical Dental Procedures,start
+OH,Cuyahoga,39035,county,7/8/20,Mask Requirement,start
+HI,,,state,3/25/20,Shelter in Place,start
+MI,,,state,4/27/20,Mandate Face Mask Use By All Individuals In Public Spaces,start
+CA,Monterey County,6053,county,3/18/20,Shelter in Place,start
+SC,,,state,3/13/20,State of Emergency,start
+CO,Denver,8031,county,6/17/20,Entertainment,start
+MA,,,state,4/20/20,Stop Initiation Of Evictions Overall Or Due To Covid Related Issues,start
+MA,,,state,3/16/20,Childcare (K-12),start
+MS,Sunflower,28133,county,7/20/20,Childcare (K-12),stop
+PA,Crawford County,42039,county,4/30/20,Shelter in Place,stop
+TN,,,state,4/29/20,Shelter in Place,stop
+TX,Brazoria County,48039,county,4/30/20,Shelter in Place,stop
+TX,Bexar,48029,county,6/4/20,Manufacturing,stop
+TN,,,state,5/1/20,Non-Essential Businesses,stop
+DC,,,state,5/29/20,Food and Drink,stop
+UT,Summit County,49043,county,5/1/20,Shelter in Place,stop
+MN,,,state,5/18/20,Shelter in Place,stop
+FL,Broward,12011,county,7/5/20,Outdoor and Recreation,stop
+IL,Cook,17031,county,5/30/20,Entertainment,stop
+WA,,,state,5/31/20,Shelter in Place,stop
+UT,,,state,5/1/20,Shelter in Place,stop
+CO,,,state,6/4/20,Gyms,stop
+TX,Kenedy County,48261,county,4/30/20,Shelter in Place,stop
+MS,Jackson,28059,county,7/20/20,Entertainment,stop
+NE,Dawes,31045,county,5/11/20,Shelter in Place,stop
+TX,Caldwell County,48055,county,4/8/20,Shelter in Place,stop
+CA,Monterey County,6053,county,5/4/20,Shelter in Place,stop
+MS,Claiborne,28021,county,7/20/20,Houses of Worship,stop
+NE,Lancaster,31109,county,10/31/20,Phase 3,stop
+ME,,,state,6/1/20,Food and Drink,stop
+OR,,,state,6/19/20,Food and Drink,stop
+TX,Shelby County,48419,county,4/30/20,Shelter in Place,stop
+MS,,,state,5/11/20,Gyms,stop
+GA,Floyd County,13115,county,4/7/20,Shelter in Place,stop
+NE,Red Willow,31145,county,5/11/20,Shelter in Place,stop
+NE,Grant,31075,county,5/11/20,Shelter in Place,stop
+NE,Thurston,31173,county,5/11/20,Shelter in Place,stop
+NE,Blaine,31009,county,5/11/20,Shelter in Place,stop
+TX,Cameron County,48061,county,5/4/20,Shelter in Place,stop
+MS,Hinds,28049,county,7/20/20,Outdoor and Recreation,stop
+NE,Sarpy,31153,county,4/30/20,Shelter in Place,stop
+TX,Bexar,48029,county,6/4/20,Entertainment,stop
+MO,Clay County,29047,county,4/23/20,Shelter in Place,stop
+NE,Johnson,31097,county,5/11/20,Shelter in Place,stop
+MS,,,state,4/27/20,Non-Essential Businesses,stop
+CT,,,state,5/20/20,Non-Essential Businesses,stop
+MS,Wayne,28153,county,7/20/20,Manufacturing,stop
+NC,Cabarrus County,37025,county,4/16/20,Shelter in Place,stop
+MS,Jackson,28059,county,7/20/20,Non-Essential Businesses,stop
+MI,,,state,5/28/20,Shelter in Place,stop
+UT,Davis County,49011,county,5/1/20,Shelter in Place,stop
+FL,Pinellas County,12103,county,5/1/20,Shelter in Place,stop
+AZ,,,state,5/13/20,Gyms,stop
+VT,,,state,4/27/20,Non-Essential Businesses,stop
+PA,Wayne County,42127,county,4/30/20,Shelter in Place,stop
+DC,District of Columbia,11001,county,6/8/20,Shelter in Place,stop
+CA,Lake County,6033,county,5/17/20,Shelter in Place,stop
+TX,Bee County,48025,county,4/30/20,Shelter in Place,stop
+MS,Rankin,28121,county,7/20/20,Food and Drink,stop
+IA,Story,19169,county,9/20/20,Food and Drink,stop
+TX,Panola County,48365,county,4/14/20,Shelter in Place,stop
+CO,Larimer County,8069,county,4/17/20,Shelter in Place,stop
+MI,,,state,5/26/20,Non-Essential Businesses,stop
+MO,Randolph County,29175,county,4/24/20,Shelter in Place,stop
+TX,Bowie County,48037,county,4/13/20,Shelter in Place,stop
+TX,Hardin County,48199,county,5/1/20,Shelter in Place,stop
+LA,,,state,5/15/20,Gyms,stop
+TX,Bell County,48027,county,4/20/20,Shelter in Place,stop
+CA,El Dorado County,6017,county,4/30/20,Shelter in Place,stop
+MS,Rankin,28121,county,7/20/20,Manufacturing,stop
+PA,Dauphin County,42043,county,4/30/20,Shelter in Place,stop
+HI,Honolulu County,15003,county,4/30/20,Shelter in Place,stop
+IA,,,state,5/15/20,Non-Essential Businesses,stop
+MS,Jackson,28059,county,7/20/20,Manufacturing,stop
+PA,Lawrence County,42073,county,4/30/20,Shelter in Place,stop
+KS,Jefferson County,20087,county,4/14/20,Shelter in Place,stop
+MP,,,state,5/1/20,Shelter in Place,stop
+MS,Rankin,28121,county,7/20/20,Entertainment,stop
+IA,Johnson,19103,county,9/20/20,Food and Drink,stop
+UT,Cache,49005,county,8/30/20,Mask Requirement,stop
+NE,Thayer,31169,county,5/11/20,Shelter in Place,stop
+TX,Frio County,48163,county,4/6/20,Shelter in Place,stop
+NE,Hooker,31091,county,5/11/20,Shelter in Place,stop
+SC,Williamsburg County,45089,county,4/10/20,Shelter in Place,stop
+NE,Logan,31113,county,5/11/20,Shelter in Place,stop
+NE,Madison,31117,county,5/6/20,Shelter in Place,stop
+FL,,,state,5/18/20,Gyms,stop
+MS,Lamar,28073,county,8/3/20,Phase 3,stop
+NV,,,state,5/9/20,Food and Drink,stop
+CA,Santa Cruz County,6087,county,5/3/20,Shelter in Place,stop
+GU,,,state,5/10/20,Shelter in Place,stop
+GA,,,state,4/27/20,Food and Drink,stop
+MS,Grenada,28043,county,7/20/20,Food and Drink,stop
+NE,Loup,31115,county,5/11/20,Shelter in Place,stop
+NE,Fillmore,31059,county,5/11/20,Shelter in Place,stop
+MS,Jefferson,28063,county,7/20/20,Houses of Worship,stop
+NE,Gosper,31073,county,5/11/20,Shelter in Place,stop
+TX,Hood County,48221,county,4/7/20,Shelter in Place,stop
+IL,Cook,17031,county,5/30/20,Food and Drink,stop
+MS,Sunflower,28133,county,7/20/20,Manufacturing,stop
+MS,Rankin,28121,county,7/20/20,Day Care,stop
+NE,Saline,31151,county,5/11/20,Shelter in Place,stop
+NE,Holt,31089,county,5/11/20,Shelter in Place,stop
+VA,,,state,6/12/20,Gyms,stop
+PA,Somerset County,42111,county,4/30/20,Shelter in Place,stop
+OR,,,state,5/15/20,Non-Essential Businesses,stop
+GA,Cherokee County,13057,county,4/9/20,Shelter in Place,stop
+MS,DeSoto,28033,county,7/20/20,Houses of Worship,stop
+MS,Claiborne,28021,county,7/20/20,Food and Drink,stop
+TX,Sabine County,48403,county,4/30/20,Shelter in Place,stop
+TX,Marion County,48315,county,4/30/20,Shelter in Place,stop
+MS,Washington,28151,county,7/20/20,Outdoor and Recreation,stop
+PA,Schuylkill County,42107,county,4/30/20,Shelter in Place,stop
+PA,Butler County,42019,county,4/30/20,Shelter in Place,stop
+TX,Bexar,48029,county,6/4/20,Childcare (K-12),stop
+NE,Lancaster,31109,county,10/31/20,Houses of Worship,stop
+FL,Miami-Dade,12086,county,7/6/20,Entertainment,stop
+MS,Sunflower,28133,county,7/20/20,Entertainment,stop
+IA,,,state,5/15/20,Gyms,stop
+HI,,,state,6/5/20,Food and Drink,stop
+RI,,,state,5/18/20,Food and Drink,stop
+MS,Harrison,28047,county,7/20/20,Childcare (K-12),stop
+WV,Monongalia,54061,county,7/24/20,Phase 2,stop
+TX,Henderson County,48213,county,4/30/20,Shelter in Place,stop
+TX,Calhoun County,48057,county,4/30/20,Shelter in Place,stop
+NC,Rutherford County,37161,county,4/17/20,Shelter in Place,stop
+PA,Delaware County,42045,county,4/30/20,Shelter in Place,stop
+MS,,,state,4/27/20,Shelter in Place,stop
+MT,,,state,5/15/20,Gyms,stop
+TX,Hale County,48189,county,4/30/20,Shelter in Place,stop
+TX,Leon County,48289,county,4/19/20,Shelter in Place,stop
+CO,Boulder County,8013,county,3/26/20,Shelter in Place,stop
+IL,,,state,5/29/20,Gyms,stop
+NH,,,state,5/18/20,Food and Drink,stop
+PA,Lancaster County,42071,county,4/30/20,Shelter in Place,stop
+MS,Harrison,28047,county,7/20/20,Houses of Worship,stop
+CO,,,state,3/11/20,State of Emergency,start
+NY,,,state,3/13/20,Nursing Homes,start
+TX,Tyler County,48457,county,3/28/20,Shelter in Place,start
+IN,,,state,4/27/20,Resumed Elective Medical Procedures,start
+WI,,,state,3/27/20,Stop Initiation Of Evictions Overall Or Due To Covid Related Issues,start
+FL,Miami-Dade,12086,county,9/14/20,Phase 2,start
+ND,Nelson,38063,county,9/3/20,Childcare (K-12),start
+ME,Aroostook,23003,county,5/18/20,Food and Drink,start
+SD,,,state,3/16/20,Childcare (K-12),start
+MS,Hinds,28049,county,7/13/20,Food and Drink,start
+TX,Foard,48155,county,7/3/20,Mask Requirement,start
+NC,,,state,3/19/20,Order Freezing Utility Shut Offs,start
+FL,,,state,3/20/20,Gyms,start
+CA,Nevada County,6057,county,4/15/20,Shelter in Place,start
+ND,Cavalier,38019,county,9/3/20,Outdoor and Recreation,start
+NH,,,state,3/16/20,Food and Drink,start
+TX,Denton County,48121,county,3/25/20,Shelter in Place,start
+MS,Claiborne,28021,county,7/13/20,Outdoor and Recreation,start
+MS,Harrison,28047,county,7/13/20,Day Care,start
+MI,Luce,26095,county,7/31/20,Outdoor and Recreation,start
+NY,New York,36061,county,6/8/20,Non-Essential Businesses,start
+TX,Morris,48343,county,7/3/20,Mask Requirement,start
+ME,Piscataquis,23021,county,5/18/20,Outdoor and Recreation,start
+TX,Travis County,48453,county,5/8/20,Shelter in Place,stop
+NH,,,state,5/31/20,Shelter in Place,stop
+NE,Colfax,31037,county,5/11/20,Shelter in Place,stop
+TX,Wichita County,48485,county,4/27/20,Shelter in Place,stop
+MI,Montmorency,26119,county,7/31/20,Entertainment,start
+IL,St. Clair,17163,county,8/18/20,Entertainment,start
+MO,,,state,3/13/20,State of Emergency,start
+NM,,,state,3/23/20,Modify Medicaid Requirements With 1135 Waivers Date Of CMS Approval,start
+FL,Broward,12011,county,9/14/20,Phase 2,start
+ND,Barnes,38003,county,9/3/20,Food and Drink,start
+DC,,,state,3/25/20,Non-Essential Businesses,start
+SC,,,state,3/15/20,Nursing Homes,start
+AL,,,state,3/19/20,Nursing Homes,start
+WV,Monongalia,54061,county,8/13/20,Bars,stop
+NE,Cuming,31039,county,5/6/20,Shelter in Place,stop
+TX,Victoria County,48469,county,4/30/20,Shelter in Place,stop
+TN,Knox County,47093,county,4/7/20,Shelter in Place,stop
+TX,Robertson County,48395,county,4/30/20,Shelter in Place,stop
+NC,,,state,5/8/20,Shelter in Place,stop
+PA,Berks County,42011,county,4/30/20,Shelter in Place,stop
+PA,Luzerne County,42079,county,4/30/20,Shelter in Place,stop
+MS,Jefferson,28063,county,7/20/20,Manufacturing,stop
